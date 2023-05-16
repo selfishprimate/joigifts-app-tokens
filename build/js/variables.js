@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 16 May 2023 11:21:51 GMT
+ * Generated on Tue, 16 May 2023 11:31:33 GMT
  */
 
 export const SemanticColorAccentDefault = "#000000";
