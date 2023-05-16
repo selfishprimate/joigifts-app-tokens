@@ -1,2 +1,5 @@
-# joigifts-app-tokens
-The design system tokens of the Joi Gifts native app.
+# Figma Tokens Automation
+
+Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
+
+Soon will be updated!
