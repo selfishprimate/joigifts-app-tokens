@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 17 May 2023 09:26:16 GMT
+ * Generated on Wed, 17 May 2023 15:35:13 GMT
  */
 
 :root {
@@ -273,16 +273,16 @@
   --global-color-black-800: #141414;
   --global-color-black-900: #000000;
   --global-color-black-950: #000000;
-  --global-color-white-50: #d6d6d6;
-  --global-color-white-100: #dbdbdb;
-  --global-color-white-200: #e0e0e0;
-  --global-color-white-300: #e6e6e6;
-  --global-color-white-400: #ebebeb;
-  --global-color-white-500: #f0f0f0;
-  --global-color-white-600: #f5f5f5;
-  --global-color-white-700: #fafafa;
-  --global-color-white-800: #fcfcfc;
-  --global-color-white-900: #ffffff;
+  --global-color-white-50: #c9c9c9;
+  --global-color-white-100: #d6d6d6;
+  --global-color-white-200: #dbdbdb;
+  --global-color-white-300: #e0e0e0;
+  --global-color-white-400: #e6e6e6;
+  --global-color-white-500: #ebebeb;
+  --global-color-white-600: #f0f0f0;
+  --global-color-white-700: #f5f5f5;
+  --global-color-white-800: #fafafa;
+  --global-color-white-900: #fcfcfc;
   --global-color-white-950: #ffffff;
   --global-color-amber-50: #fffbeb;
   --global-color-amber-100: #fef3c7;
@@ -394,4 +394,37 @@
   --global-color-surf-800: #234230;
   --global-color-surf-900: #101e17;
   --global-color-surf-950: #101e17;
+  --global-color-rich-black-50: #f6f6f7;
+  --global-color-rich-black-100: #e2e4e5;
+  --global-color-rich-black-200: #c5c8ca;
+  --global-color-rich-black-300: #a0a3a8;
+  --global-color-rich-black-400: #7c8085;
+  --global-color-rich-black-500: #61656b;
+  --global-color-rich-black-600: #4d4f54;
+  --global-color-rich-black-700: #3f4246;
+  --global-color-rich-black-800: #35383a;
+  --global-color-rich-black-900: #2f3032;
+  --global-color-rich-black-950: #1d1e20;
+  --global-color-moody-blue-50: #f0f3fd;
+  --global-color-moody-blue-100: #e3e9fc;
+  --global-color-moody-blue-200: #ccd5f9;
+  --global-color-moody-blue-300: #aebaf3;
+  --global-color-moody-blue-400: #8d96ec;
+  --global-color-moody-blue-500: #7173e3;
+  --global-color-moody-blue-600: #645dd7;
+  --global-color-moody-blue-700: #4f46bc;
+  --global-color-moody-blue-800: #413b98;
+  --global-color-moody-blue-900: #393679;
+  --global-color-moody-blue-950: #222046;
+  --global-color-teak-50: #f9f8f3;
+  --global-color-teak-100: #f1efe3;
+  --global-color-teak-200: #e2dcc6;
+  --global-color-teak-300: #cfc4a2;
+  --global-color-teak-400: #bba87c;
+  --global-color-teak-500: #ae9564;
+  --global-color-teak-600: #a08256;
+  --global-color-teak-700: #856949;
+  --global-color-teak-800: #6c5640;
+  --global-color-teak-900: #584736;
+  --global-color-teak-950: #2f241b;
 }

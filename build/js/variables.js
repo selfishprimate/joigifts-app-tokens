@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 17 May 2023 09:26:16 GMT
+ * Generated on Wed, 17 May 2023 15:35:13 GMT
  */
 
 export const SemanticOpacity10 = 0.04;
@@ -272,16 +272,16 @@ export const GlobalColorBlack700 = "#272727";
 export const GlobalColorBlack800 = "#141414";
 export const GlobalColorBlack900 = "#000000";
 export const GlobalColorBlack950 = "#000000";
-export const GlobalColorWhite50 = "#d6d6d6";
-export const GlobalColorWhite100 = "#dbdbdb";
-export const GlobalColorWhite200 = "#e0e0e0";
-export const GlobalColorWhite300 = "#e6e6e6";
-export const GlobalColorWhite400 = "#ebebeb";
-export const GlobalColorWhite500 = "#f0f0f0";
-export const GlobalColorWhite600 = "#f5f5f5";
-export const GlobalColorWhite700 = "#fafafa";
-export const GlobalColorWhite800 = "#fcfcfc";
-export const GlobalColorWhite900 = "#ffffff";
+export const GlobalColorWhite50 = "#c9c9c9";
+export const GlobalColorWhite100 = "#d6d6d6";
+export const GlobalColorWhite200 = "#dbdbdb";
+export const GlobalColorWhite300 = "#e0e0e0";
+export const GlobalColorWhite400 = "#e6e6e6";
+export const GlobalColorWhite500 = "#ebebeb";
+export const GlobalColorWhite600 = "#f0f0f0";
+export const GlobalColorWhite700 = "#f5f5f5";
+export const GlobalColorWhite800 = "#fafafa";
+export const GlobalColorWhite900 = "#fcfcfc";
 export const GlobalColorWhite950 = "#ffffff";
 export const GlobalColorAmber50 = "#fffbeb";
 export const GlobalColorAmber100 = "#fef3c7";
@@ -393,3 +393,36 @@ export const GlobalColorSurf700 = "#2a523b";
 export const GlobalColorSurf800 = "#234230";
 export const GlobalColorSurf900 = "#101e17";
 export const GlobalColorSurf950 = "#101e17";
+export const GlobalColorRichBlack50 = "#f6f6f7";
+export const GlobalColorRichBlack100 = "#e2e4e5";
+export const GlobalColorRichBlack200 = "#c5c8ca";
+export const GlobalColorRichBlack300 = "#a0a3a8";
+export const GlobalColorRichBlack400 = "#7c8085";
+export const GlobalColorRichBlack500 = "#61656b";
+export const GlobalColorRichBlack600 = "#4d4f54";
+export const GlobalColorRichBlack700 = "#3f4246";
+export const GlobalColorRichBlack800 = "#35383a";
+export const GlobalColorRichBlack900 = "#2f3032";
+export const GlobalColorRichBlack950 = "#1d1e20";
+export const GlobalColorMoodyBlue50 = "#f0f3fd";
+export const GlobalColorMoodyBlue100 = "#e3e9fc";
+export const GlobalColorMoodyBlue200 = "#ccd5f9";
+export const GlobalColorMoodyBlue300 = "#aebaf3";
+export const GlobalColorMoodyBlue400 = "#8d96ec";
+export const GlobalColorMoodyBlue500 = "#7173e3";
+export const GlobalColorMoodyBlue600 = "#645dd7";
+export const GlobalColorMoodyBlue700 = "#4f46bc";
+export const GlobalColorMoodyBlue800 = "#413b98";
+export const GlobalColorMoodyBlue900 = "#393679";
+export const GlobalColorMoodyBlue950 = "#222046";
+export const GlobalColorTeak50 = "#f9f8f3";
+export const GlobalColorTeak100 = "#f1efe3";
+export const GlobalColorTeak200 = "#e2dcc6";
+export const GlobalColorTeak300 = "#cfc4a2";
+export const GlobalColorTeak400 = "#bba87c";
+export const GlobalColorTeak500 = "#ae9564";
+export const GlobalColorTeak600 = "#a08256";
+export const GlobalColorTeak700 = "#856949";
+export const GlobalColorTeak800 = "#6c5640";
+export const GlobalColorTeak900 = "#584736";
+export const GlobalColorTeak950 = "#2f241b";
