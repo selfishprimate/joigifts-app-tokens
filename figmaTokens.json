@@ -2074,7 +2074,7 @@
             "type": "color"
           },
           "strong": {
-            "value": "{global.color.neutral.400}",
+            "value": "{global.color.neutral.500}",
             "type": "color"
           },
           "stronger": {
