@@ -2070,7 +2070,7 @@
         },
         "border": {
           "default": {
-            "value": "{global.color.neutral.300}",
+            "value": "{global.color.neutral.400}",
             "type": "color"
           },
           "strong": {
@@ -2082,11 +2082,11 @@
             "type": "color"
           },
           "weak": {
-            "value": "{global.color.neutral.200}",
+            "value": "{global.color.neutral.300}",
             "type": "color"
           },
           "weaker": {
-            "value": "{global.color.neutral.100}",
+            "value": "{global.color.neutral.200}",
             "type": "color"
           },
           "active": {
