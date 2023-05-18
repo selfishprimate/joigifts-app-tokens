@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 18 May 2023 08:57:28 GMT
+ * Generated on Thu, 18 May 2023 09:38:55 GMT
  */
 
 export const SemanticOpacity10 = 0.04;
@@ -184,6 +184,13 @@ export const SemanticColorLinkStrong = "#1e3a8a";
 export const SemanticColorLinkEmphasis = "#1d4ed8";
 export const SemanticColorLinkMuted = "#93c5fd";
 export const SemanticColorLinkSubtle = "#bfdbfe";
+export const SemanticColorBorderDefault = "#e9e9ea";
+export const SemanticColorBorderStrong = "#d3d3d4";
+export const SemanticColorBorderStronger = "#bcbebf";
+export const SemanticColorBorderWeak = "#eff0f0";
+export const SemanticColorBorderWeaker = "#f4f4f4";
+export const SemanticColorBorderActive = "#212529";
+export const SemanticColorBorderNeutral = "#d3d3d4";
 export const GlobalFontWeightThin = 200;
 export const GlobalFontWeightExtraLight = 200;
 export const GlobalFontWeightLight = 300;
