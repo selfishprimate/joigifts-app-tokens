@@ -1980,7 +1980,7 @@
         },
         "foreground": {
           "default": {
-            "value": "{global.color.richBlack.950}",
+            "value": "{global.color.neutral.950}",
             "type": "color"
           },
           "ondefault": {
@@ -1988,27 +1988,27 @@
             "type": "color"
           },
           "muted": {
-            "value": "{global.color.richBlack.400}",
+            "value": "{global.color.neutral.800}",
             "type": "color"
           },
           "subtle": {
-            "value": "{global.color.richBlack.300}",
+            "value": "{global.color.neutral.600}",
             "type": "color"
           },
           "weak": {
-            "value": "{global.color.richBlack.100}",
+            "value": "{global.color.neutral.400}",
             "type": "color"
           },
           "weaker": {
-            "value": "{global.color.richBlack.50}",
+            "value": "{global.color.neutral.300}",
             "type": "color"
           },
           "disabled": {
-            "value": "{global.color.richBlack.100}",
+            "value": "{global.color.neutral.300}",
             "type": "color"
           },
           "ondisabled": {
-            "value": "{global.color.richBlack.300}",
+            "value": "{global.color.neutral.700}",
             "type": "color"
           }
         },
