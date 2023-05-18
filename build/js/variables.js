@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 18 May 2023 09:48:44 GMT
+ * Generated on Thu, 18 May 2023 09:52:09 GMT
  */
 
 export const SemanticOpacity10 = 0.04;
@@ -190,7 +190,6 @@ export const SemanticColorBorderStronger = "#bcbebf";
 export const SemanticColorBorderWeak = "#eff0f0";
 export const SemanticColorBorderWeaker = "#f4f4f4";
 export const SemanticColorBorderActive = "#212529";
-export const SemanticColorBorderNeutral = "#d3d3d4";
 export const GlobalFontWeightThin = 200;
 export const GlobalFontWeightExtraLight = 200;
 export const GlobalFontWeightLight = 300;
