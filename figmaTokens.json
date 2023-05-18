@@ -2067,6 +2067,36 @@
             "value": "{global.color.blue.200}",
             "type": "color"
           }
+        },
+        "border": {
+          "default": {
+            "value": "{global.color.neutral.300}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{global.color.neutral.400}",
+            "type": "color"
+          },
+          "stronger": {
+            "value": "{global.color.neutral.500}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{global.color.neutral.200}",
+            "type": "color"
+          },
+          "weaker": {
+            "value": "{global.color.neutral.100}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{global.color.neutral.950}",
+            "type": "color"
+          },
+          "neutral": {
+            "value": "{global.color.neutral.400}",
+            "type": "color"
+          }
         }
       }
     }
