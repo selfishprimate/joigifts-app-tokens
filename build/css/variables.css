@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 19 May 2023 14:28:55 GMT
+ * Generated on Fri, 19 May 2023 14:43:40 GMT
  */
 
 :root {
@@ -191,6 +191,17 @@
   --semantic-color-border-weak: #e9e9ea;
   --semantic-color-border-weaker: #eff0f0;
   --semantic-color-border-active: #212529;
+  --semantic-color-text-default: #212529;
+  --semantic-color-text-ondefault: #ffffff;
+  --semantic-color-text-muted: #585b5e;
+  --semantic-color-text-subtle: #a6a8a9;
+  --semantic-color-text-disabled: #d3d3d4;
+  --semantic-color-text-ondisabled: #909294;
+  --semantic-color-text-success: #16a34a;
+  --semantic-color-text-info: #2563eb;
+  --semantic-color-text-warning: #ea580c;
+  --semantic-color-text-attention: #eab308;
+  --semantic-color-text-danger: #dc2626;
   --global-font-weight-thin: 200;
   --global-font-weight-extra-light: 200;
   --global-font-weight-light: 300;
