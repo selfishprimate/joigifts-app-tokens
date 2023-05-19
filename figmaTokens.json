@@ -2093,6 +2093,52 @@
             "value": "{global.color.neutral.950}",
             "type": "color"
           }
+        },
+        "text": {
+          "default": {
+            "value": "{semantic.color.foreground.default}",
+            "type": "color"
+          },
+          "ondefault": {
+            "value": "{semantic.color.foreground.ondefault}",
+            "type": "color"
+          },
+          "muted": {
+            "value": "{semantic.color.foreground.muted}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{semantic.color.foreground.subtle}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{semantic.color.foreground.weak}",
+            "type": "color"
+          },
+          "ondisabled": {
+            "value": "{semantic.color.foreground.ondisabled}",
+            "type": "color"
+          },
+          "success": {
+            "value": "{semantic.color.success.default}",
+            "type": "color"
+          },
+          "info": {
+            "value": "{semantic.color.info.default}",
+            "type": "color"
+          },
+          "warning": {
+            "value": "{semantic.color.warning.default}",
+            "type": "color"
+          },
+          "attention": {
+            "value": "{semantic.color.attention.default}",
+            "type": "color"
+          },
+          "danger": {
+            "value": "{semantic.color.danger.default}",
+            "type": "color"
+          }
         }
       }
     }
