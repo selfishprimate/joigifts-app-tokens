@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 22 May 2023 10:11:08 GMT
+ * Generated on Mon, 22 May 2023 10:19:11 GMT
  */
 
 export const SemanticOpacity10 = 0.04;
@@ -42,22 +42,26 @@ export const SemanticSpacingXxlarge100 = "160px";
 export const SemanticSpacingXxlarge200 = "240px";
 export const SemanticSpacingXxlarge300 = "320px";
 export const SemanticSpacingXxlarge400 = "480px";
-export const SemanticTypescaleHeading01FontFamily = "Inter, sans-serif";
-export const SemanticTypescaleHeading01FontWeight = 700;
-export const SemanticTypescaleHeading01LineHeight = "140%";
-export const SemanticTypescaleHeading01FontSize = 29;
-export const SemanticTypescaleHeading02FontFamily = "Inter, sans-serif";
-export const SemanticTypescaleHeading02FontWeight = 700;
-export const SemanticTypescaleHeading02LineHeight = "140%";
-export const SemanticTypescaleHeading02FontSize = 26;
-export const SemanticTypescaleHeading03FontFamily = "Inter, sans-serif";
-export const SemanticTypescaleHeading03FontWeight = 700;
-export const SemanticTypescaleHeading03LineHeight = "140%";
-export const SemanticTypescaleHeading03FontSize = 23;
-export const SemanticTypescaleHeading04FontFamily = "Inter, sans-serif";
-export const SemanticTypescaleHeading04FontWeight = 600;
-export const SemanticTypescaleHeading04LineHeight = "140%";
-export const SemanticTypescaleHeading04FontSize = 20;
+export const SemanticTypescaleTitleXlargeFontFamily = "Inter, sans-serif";
+export const SemanticTypescaleTitleXlargeFontWeight = 700;
+export const SemanticTypescaleTitleXlargeLineHeight = "140%";
+export const SemanticTypescaleTitleXlargeFontSize = 29;
+export const SemanticTypescaleTitleLargeFontFamily = "Inter, sans-serif";
+export const SemanticTypescaleTitleLargeFontWeight = 700;
+export const SemanticTypescaleTitleLargeLineHeight = "140%";
+export const SemanticTypescaleTitleLargeFontSize = 26;
+export const SemanticTypescaleTitleMediumFontFamily = "Inter, sans-serif";
+export const SemanticTypescaleTitleMediumFontWeight = 700;
+export const SemanticTypescaleTitleMediumLineHeight = "140%";
+export const SemanticTypescaleTitleMediumFontSize = 23;
+export const SemanticTypescaleTitleDefaultFontFamily = "Inter, sans-serif";
+export const SemanticTypescaleTitleDefaultFontWeight = 600;
+export const SemanticTypescaleTitleDefaultLineHeight = "140%";
+export const SemanticTypescaleTitleDefaultFontSize = 20;
+export const SemanticTypescaleTitleSmallFontFamily = "Inter, sans-serif";
+export const SemanticTypescaleTitleSmallFontWeight = 600;
+export const SemanticTypescaleTitleSmallLineHeight = "140%";
+export const SemanticTypescaleTitleSmallFontSize = 18;
 export const SemanticTypescaleBodyDefaultNormalFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleBodyDefaultNormalFontWeight = 400;
 export const SemanticTypescaleBodyDefaultNormalLineHeight = "normal";
