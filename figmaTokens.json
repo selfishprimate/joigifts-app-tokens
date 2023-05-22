@@ -1782,6 +1782,44 @@
             },
             "type": "typography"
           }
+        },
+        "badge": {
+          "normal": {
+            "value": {
+              "fontFamily": "{global.fontFamily.inter}",
+              "fontWeight": "{global.fontWeight.normal}",
+              "lineHeight": "{global.lineHeight.normal}",
+              "fontSize": "{global.fontSize.3xsmall}"
+            },
+            "type": "typography"
+          },
+          "medium": {
+            "value": {
+              "fontFamily": "{global.fontFamily.inter}",
+              "fontWeight": "{global.fontWeight.medium}",
+              "lineHeight": "{global.lineHeight.normal}",
+              "fontSize": "{global.fontSize.3xsmall}"
+            },
+            "type": "typography"
+          },
+          "semiBold": {
+            "value": {
+              "fontFamily": "{global.fontFamily.inter}",
+              "fontWeight": "{global.fontWeight.semiBold}",
+              "lineHeight": "{global.lineHeight.normal}",
+              "fontSize": "{global.fontSize.3xsmall}"
+            },
+            "type": "typography"
+          },
+          "bold": {
+            "value": {
+              "fontFamily": "{global.fontFamily.inter}",
+              "fontWeight": "{global.fontWeight.bold}",
+              "lineHeight": "{global.lineHeight.normal}",
+              "fontSize": "{global.fontSize.3xsmall}"
+            },
+            "type": "typography"
+          }
         }
       },
       "fontFamily": {
