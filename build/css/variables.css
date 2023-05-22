@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 22 May 2023 10:19:11 GMT
+ * Generated on Mon, 22 May 2023 10:34:04 GMT
  */
 
 :root {
@@ -332,6 +332,10 @@
   --semantic-color-text-warning: #ea580c;
   --semantic-color-text-attention: #eab308;
   --semantic-color-text-danger: #dc2626;
+  --semantic-text-transform-none: none;
+  --semantic-text-transform-capitalize: capitalize;
+  --semantic-text-transform-uppercase: uppercase;
+  --semantic-text-transform-lowercase: lowercase;
   --global-font-weight-thin: 200;
   --global-font-weight-extra-light: 200;
   --global-font-weight-light: 300;
@@ -654,4 +658,8 @@
   --global-text-decoration-none: none;
   --global-text-decoration-underline: underline;
   --global-text-decoration-line-through: line-through;
+  --global-text-transform-capitalize: capitalize;
+  --global-text-transform-uppercase: uppercase;
+  --global-text-transform-lowercase: lowercase;
+  --global-text-transform-none: none;
 }

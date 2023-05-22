@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 22 May 2023 10:19:11 GMT
+ * Generated on Mon, 22 May 2023 10:34:04 GMT
  */
 
 export const SemanticOpacity10 = 0.04;
@@ -331,6 +331,10 @@ export const SemanticColorTextInfo = "#2563eb";
 export const SemanticColorTextWarning = "#ea580c";
 export const SemanticColorTextAttention = "#eab308";
 export const SemanticColorTextDanger = "#dc2626";
+export const SemanticTextTransformNone = "none";
+export const SemanticTextTransformCapitalize = "capitalize";
+export const SemanticTextTransformUppercase = "uppercase";
+export const SemanticTextTransformLowercase = "lowercase";
 export const GlobalFontWeightThin = 200;
 export const GlobalFontWeightExtraLight = 200;
 export const GlobalFontWeightLight = 300;
@@ -653,3 +657,7 @@ export const GlobalColorTeak950 = "#2f241b";
 export const GlobalTextDecorationNone = "none";
 export const GlobalTextDecorationUnderline = "underline";
 export const GlobalTextDecorationLineThrough = "line-through";
+export const GlobalTextTransformCapitalize = "capitalize";
+export const GlobalTextTransformUppercase = "uppercase";
+export const GlobalTextTransformLowercase = "lowercase";
+export const GlobalTextTransformNone = "none";
