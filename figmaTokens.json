@@ -1345,38 +1345,6 @@
             "type": "color"
           }
         }
-      },
-      "textDecoration": {
-        "none": {
-          "value": "none",
-          "type": "textDecoration"
-        },
-        "underline": {
-          "value": "underline",
-          "type": "textDecoration"
-        },
-        "lineThrough": {
-          "value": "line-through",
-          "type": "textDecoration"
-        }
-      },
-      "textTransform": {
-        "capitalize": {
-          "value": "capitalize",
-          "type": "textCase"
-        },
-        "uppercase": {
-          "value": "uppercase",
-          "type": "textCase"
-        },
-        "lowercase": {
-          "value": "lowercase",
-          "type": "textCase"
-        },
-        "none": {
-          "value": "none",
-          "type": "textCase"
-        }
       }
     }
   },
@@ -1610,7 +1578,7 @@
                 "fontWeight": "{global.fontWeight.normal}",
                 "lineHeight": "{global.lineHeight.normal}",
                 "fontSize": "{global.fontSize.default}",
-                "textDecoration": "{global.textDecoration.none}"
+                "textDecoration": "{semantic.textDecoration.none}"
               },
               "type": "typography"
             },
@@ -1620,7 +1588,7 @@
                 "fontWeight": "{global.fontWeight.medium}",
                 "lineHeight": "{global.lineHeight.normal}",
                 "fontSize": "{global.fontSize.default}",
-                "textDecoration": "{global.textDecoration.none}"
+                "textDecoration": "{semantic.textDecoration.none}"
               },
               "type": "typography"
             },
@@ -1630,7 +1598,7 @@
                 "fontWeight": "{global.fontWeight.semiBold}",
                 "lineHeight": "{global.lineHeight.normal}",
                 "fontSize": "{global.fontSize.default}",
-                "textDecoration": "{global.textDecoration.none}"
+                "textDecoration": "{semantic.textDecoration.none}"
               },
               "type": "typography"
             },
@@ -1640,7 +1608,7 @@
                 "fontWeight": "{global.fontWeight.bold}",
                 "lineHeight": "{global.lineHeight.normal}",
                 "fontSize": "{global.fontSize.default}",
-                "textDecoration": "{global.textDecoration.none}"
+                "textDecoration": "{semantic.textDecoration.none}"
               },
               "type": "typography"
             },
@@ -1650,7 +1618,7 @@
                 "fontWeight": "{global.fontWeight.normal}",
                 "lineHeight": "{global.lineHeight.normal}",
                 "fontSize": "{global.fontSize.default}",
-                "textDecoration": "{global.textDecoration.underline}"
+                "textDecoration": "{semantic.textDecoration.underline}"
               },
               "type": "typography"
             },
@@ -1660,7 +1628,7 @@
                 "fontWeight": "{global.fontWeight.normal}",
                 "lineHeight": "{global.lineHeight.normal}",
                 "fontSize": "{global.fontSize.default}",
-                "textDecoration": "{global.textDecoration.lineThrough}"
+                "textDecoration": "{semantic.textDecoration.lineThrough}"
               },
               "type": "typography"
             }
@@ -1672,7 +1640,7 @@
                 "fontWeight": "{global.fontWeight.normal}",
                 "lineHeight": "{global.lineHeight.normal}",
                 "fontSize": "{global.fontSize.small}",
-                "textDecoration": "{global.textDecoration.none}"
+                "textDecoration": "{semantic.textDecoration.none}"
               },
               "type": "typography"
             },
@@ -1682,7 +1650,7 @@
                 "fontWeight": "{global.fontWeight.medium}",
                 "lineHeight": "{global.lineHeight.normal}",
                 "fontSize": "{global.fontSize.small}",
-                "textDecoration": "{global.textDecoration.none}"
+                "textDecoration": "{semantic.textDecoration.none}"
               },
               "type": "typography"
             },
@@ -1692,7 +1660,7 @@
                 "fontWeight": "{global.fontWeight.semiBold}",
                 "lineHeight": "{global.lineHeight.normal}",
                 "fontSize": "{global.fontSize.small}",
-                "textDecoration": "{global.textDecoration.none}"
+                "textDecoration": "{semantic.textDecoration.none}"
               },
               "type": "typography"
             },
@@ -1702,7 +1670,7 @@
                 "fontWeight": "{global.fontWeight.bold}",
                 "lineHeight": "{global.lineHeight.normal}",
                 "fontSize": "{global.fontSize.small}",
-                "textDecoration": "{global.textDecoration.none}"
+                "textDecoration": "{semantic.textDecoration.none}"
               },
               "type": "typography"
             },
@@ -1712,7 +1680,7 @@
                 "fontWeight": "{global.fontWeight.normal}",
                 "lineHeight": "{global.lineHeight.normal}",
                 "fontSize": "{global.fontSize.small}",
-                "textDecoration": "{global.textDecoration.underline}"
+                "textDecoration": "{semantic.textDecoration.underline}"
               },
               "type": "typography"
             },
@@ -1722,7 +1690,7 @@
                 "fontWeight": "{global.fontWeight.normal}",
                 "lineHeight": "{global.lineHeight.normal}",
                 "fontSize": "{global.fontSize.small}",
-                "textDecoration": "{global.textDecoration.lineThrough}"
+                "textDecoration": "{semantic.textDecoration.lineThrough}"
               },
               "type": "typography"
             }
@@ -1736,7 +1704,7 @@
                 "fontWeight": "{global.fontWeight.normal}",
                 "lineHeight": "{global.lineHeight.normal}",
                 "fontSize": "{global.fontSize.xsmall}",
-                "textDecoration": "{global.textDecoration.none}"
+                "textDecoration": "{semantic.textDecoration.none}"
               },
               "type": "typography"
             },
@@ -1746,7 +1714,7 @@
                 "fontWeight": "{global.fontWeight.medium}",
                 "lineHeight": "{global.lineHeight.normal}",
                 "fontSize": "{global.fontSize.xsmall}",
-                "textDecoration": "{global.textDecoration.none}"
+                "textDecoration": "{semantic.textDecoration.none}"
               },
               "type": "typography"
             },
@@ -1756,7 +1724,7 @@
                 "fontWeight": "{global.fontWeight.semiBold}",
                 "lineHeight": "{global.lineHeight.normal}",
                 "fontSize": "{global.fontSize.xsmall}",
-                "textDecoration": "{global.textDecoration.none}"
+                "textDecoration": "{semantic.textDecoration.none}"
               },
               "type": "typography"
             },
@@ -1766,17 +1734,17 @@
                 "fontWeight": "{global.fontWeight.bold}",
                 "lineHeight": "{global.lineHeight.normal}",
                 "fontSize": "{global.fontSize.xsmall}",
-                "textDecoration": "{global.textDecoration.none}"
+                "textDecoration": "{semantic.textDecoration.none}"
               },
               "type": "typography"
             },
-            "underlined": {
+            "underline": {
               "value": {
                 "fontFamily": "{semantic.fontFamily.ltr.primary}",
                 "fontWeight": "{global.fontWeight.normal}",
                 "lineHeight": "{global.lineHeight.normal}",
                 "fontSize": "{global.fontSize.xsmall}",
-                "textDecoration": "{global.textDecoration.underline}"
+                "textDecoration": "{semantic.textDecoration.underline}"
               },
               "type": "typography"
             },
@@ -1786,7 +1754,7 @@
                 "fontWeight": "{global.fontWeight.normal}",
                 "lineHeight": "{global.lineHeight.normal}",
                 "fontSize": "{global.fontSize.xsmall}",
-                "textDecoration": "{global.textDecoration.lineThrough}"
+                "textDecoration": "{semantic.textDecoration.lineThrough}"
               },
               "type": "typography"
             }
@@ -2490,22 +2458,36 @@
           }
         }
       },
-      "textTransform": {
+      "textCase": {
         "none": {
-          "value": "{global.textTransform.none}",
+          "value": "none",
           "type": "textCase"
         },
         "capitalize": {
-          "value": "{global.textTransform.capitalize}",
+          "value": "capitalize",
           "type": "textCase"
         },
         "uppercase": {
-          "value": "{global.textTransform.uppercase}",
+          "value": "uppercase",
           "type": "textCase"
         },
         "lowercase": {
-          "value": "{global.textTransform.lowercase}",
+          "value": "lowercase",
           "type": "textCase"
+        }
+      },
+      "textDecoration": {
+        "none": {
+          "value": "none",
+          "type": "textDecoration"
+        },
+        "underline": {
+          "value": "underline",
+          "type": "textDecoration"
+        },
+        "lineThrough": {
+          "value": "line-through",
+          "type": "textDecoration"
         }
       }
     }
