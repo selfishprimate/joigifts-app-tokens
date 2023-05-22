@@ -1724,7 +1724,7 @@
           }
         },
         "subtitle": {
-          "default": {
+          "large": {
             "light": {
               "value": {
                 "fontFamily": "{global.fontFamily.inter}",
@@ -1749,6 +1749,64 @@
                 "fontWeight": "{global.fontWeight.medium}",
                 "lineHeight": "{global.lineHeight.large}",
                 "fontSize": "{global.fontSize.medium}"
+              },
+              "type": "typography"
+            }
+          },
+          "default": {
+            "light": {
+              "value": {
+                "fontFamily": "{global.fontFamily.inter}",
+                "fontWeight": "{global.fontWeight.light}",
+                "lineHeight": "{global.lineHeight.large}",
+                "fontSize": "{global.fontSize.default}"
+              },
+              "type": "typography"
+            },
+            "normal": {
+              "value": {
+                "fontFamily": "{global.fontFamily.inter}",
+                "fontWeight": "{global.fontWeight.normal}",
+                "lineHeight": "{global.lineHeight.large}",
+                "fontSize": "{global.fontSize.default}"
+              },
+              "type": "typography"
+            },
+            "medium": {
+              "value": {
+                "fontFamily": "{global.fontFamily.inter}",
+                "fontWeight": "{global.fontWeight.medium}",
+                "lineHeight": "{global.lineHeight.large}",
+                "fontSize": "{global.fontSize.default}"
+              },
+              "type": "typography"
+            }
+          },
+          "small": {
+            "light": {
+              "value": {
+                "fontFamily": "{global.fontFamily.inter}",
+                "fontWeight": "{global.fontWeight.light}",
+                "lineHeight": "{global.lineHeight.large}",
+                "fontSize": "{global.fontSize.small}"
+              },
+              "type": "typography"
+            },
+            "normal": {
+              "value": {
+                "fontFamily": "{global.fontFamily.inter}",
+                "fontWeight": "{global.fontWeight.normal}",
+                "lineHeight": "{global.lineHeight.large}",
+                "fontSize": "{global.fontSize.small}"
+              },
+              "type": "typography"
+            },
+            "medium": {
+              "value": {
+                "fontFamily": "{global.fontFamily.inter}",
+                "fontWeight": "{global.fontWeight.medium}",
+                "lineHeight": "{global.lineHeight.large}",
+                "fontSize": "{global.fontSize.small}"
               },
               "type": "typography"
             }
