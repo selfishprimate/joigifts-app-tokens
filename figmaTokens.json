@@ -1359,6 +1359,24 @@
           "value": "line-through",
           "type": "textDecoration"
         }
+      },
+      "textTransform": {
+        "capitalize": {
+          "value": "capitalize",
+          "type": "textCase"
+        },
+        "uppercase": {
+          "value": "uppercase",
+          "type": "textCase"
+        },
+        "lowercase": {
+          "value": "lowercase",
+          "type": "textCase"
+        },
+        "none": {
+          "value": "none",
+          "type": "textCase"
+        }
       }
     }
   },
@@ -2458,6 +2476,24 @@
             "value": "{semantic.color.danger.default}",
             "type": "color"
           }
+        }
+      },
+      "textTransform": {
+        "none": {
+          "value": "{global.textTransform.none}",
+          "type": "textCase"
+        },
+        "capitalize": {
+          "value": "{global.textTransform.capitalize}",
+          "type": "textCase"
+        },
+        "uppercase": {
+          "value": "{global.textTransform.uppercase}",
+          "type": "textCase"
+        },
+        "lowercase": {
+          "value": "{global.textTransform.lowercase}",
+          "type": "textCase"
         }
       }
     }
