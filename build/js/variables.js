@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 22 May 2023 09:24:45 GMT
+ * Generated on Mon, 22 May 2023 09:35:05 GMT
  */
 
 export const SemanticOpacity10 = 0.04;
@@ -145,6 +145,22 @@ export const SemanticTypescaleButtonSmallFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleButtonSmallFontWeight = 500;
 export const SemanticTypescaleButtonSmallLineHeight = "normal";
 export const SemanticTypescaleButtonSmallFontSize = 14;
+export const SemanticTypescaleBadgeNormalFontFamily = "Inter, sans-serif";
+export const SemanticTypescaleBadgeNormalFontWeight = 400;
+export const SemanticTypescaleBadgeNormalLineHeight = "normal";
+export const SemanticTypescaleBadgeNormalFontSize = 10;
+export const SemanticTypescaleBadgeMediumFontFamily = "Inter, sans-serif";
+export const SemanticTypescaleBadgeMediumFontWeight = 500;
+export const SemanticTypescaleBadgeMediumLineHeight = "normal";
+export const SemanticTypescaleBadgeMediumFontSize = 10;
+export const SemanticTypescaleBadgeSemiBoldFontFamily = "Inter, sans-serif";
+export const SemanticTypescaleBadgeSemiBoldFontWeight = 600;
+export const SemanticTypescaleBadgeSemiBoldLineHeight = "normal";
+export const SemanticTypescaleBadgeSemiBoldFontSize = 10;
+export const SemanticTypescaleBadgeBoldFontFamily = "Inter, sans-serif";
+export const SemanticTypescaleBadgeBoldFontWeight = 700;
+export const SemanticTypescaleBadgeBoldLineHeight = "normal";
+export const SemanticTypescaleBadgeBoldFontSize = 10;
 export const SemanticFontFamilyLtrPrimary = "Inter, sans-serif";
 export const SemanticFontFamilyLtrSecondary = "Inter, sans-serif";
 export const SemanticFontFamilyLtrMono = "Roboto Mono, monospace";
