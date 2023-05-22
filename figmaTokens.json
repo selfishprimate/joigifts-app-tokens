@@ -1781,6 +1781,15 @@
               "fontSize": "{global.fontSize.small}"
             },
             "type": "typography"
+          },
+          "xsmall": {
+            "value": {
+              "fontFamily": "{global.fontFamily.inter}",
+              "fontWeight": "{global.fontWeight.medium}",
+              "lineHeight": "{global.lineHeight.normal}",
+              "fontSize": "{global.fontSize.xsmall}"
+            },
+            "type": "typography"
           }
         },
         "badge": {
