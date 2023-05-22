@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 22 May 2023 10:40:54 GMT
+ * Generated on Mon, 22 May 2023 11:01:26 GMT
  */
 
 export const SemanticOpacity10 = 0.04;
@@ -142,11 +142,11 @@ export const SemanticTypescaleCaptionDefaultBoldFontWeight = 700;
 export const SemanticTypescaleCaptionDefaultBoldLineHeight = "normal";
 export const SemanticTypescaleCaptionDefaultBoldFontSize = 12;
 export const SemanticTypescaleCaptionDefaultBoldTextDecoration = "none";
-export const SemanticTypescaleCaptionDefaultUnderlinedFontFamily = "Inter, sans-serif";
-export const SemanticTypescaleCaptionDefaultUnderlinedFontWeight = 400;
-export const SemanticTypescaleCaptionDefaultUnderlinedLineHeight = "normal";
-export const SemanticTypescaleCaptionDefaultUnderlinedFontSize = 12;
-export const SemanticTypescaleCaptionDefaultUnderlinedTextDecoration = "underline";
+export const SemanticTypescaleCaptionDefaultUnderlineFontFamily = "Inter, sans-serif";
+export const SemanticTypescaleCaptionDefaultUnderlineFontWeight = 400;
+export const SemanticTypescaleCaptionDefaultUnderlineLineHeight = "normal";
+export const SemanticTypescaleCaptionDefaultUnderlineFontSize = 12;
+export const SemanticTypescaleCaptionDefaultUnderlineTextDecoration = "underline";
 export const SemanticTypescaleCaptionDefaultLineThroughFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleCaptionDefaultLineThroughFontWeight = 400;
 export const SemanticTypescaleCaptionDefaultLineThroughLineHeight = "normal";
@@ -343,10 +343,13 @@ export const SemanticColorTextInfo = "#2563eb";
 export const SemanticColorTextWarning = "#ea580c";
 export const SemanticColorTextAttention = "#eab308";
 export const SemanticColorTextDanger = "#dc2626";
-export const SemanticTextTransformNone = "none";
-export const SemanticTextTransformCapitalize = "capitalize";
-export const SemanticTextTransformUppercase = "uppercase";
-export const SemanticTextTransformLowercase = "lowercase";
+export const SemanticTextCaseNone = "none";
+export const SemanticTextCaseCapitalize = "capitalize";
+export const SemanticTextCaseUppercase = "uppercase";
+export const SemanticTextCaseLowercase = "lowercase";
+export const SemanticTextDecorationNone = "none";
+export const SemanticTextDecorationUnderline = "underline";
+export const SemanticTextDecorationLineThrough = "line-through";
 export const GlobalFontWeightThin = 200;
 export const GlobalFontWeightExtraLight = 200;
 export const GlobalFontWeightLight = 300;
@@ -666,10 +669,3 @@ export const GlobalColorTeak700 = "#856949";
 export const GlobalColorTeak800 = "#6c5640";
 export const GlobalColorTeak900 = "#584736";
 export const GlobalColorTeak950 = "#2f241b";
-export const GlobalTextDecorationNone = "none";
-export const GlobalTextDecorationUnderline = "underline";
-export const GlobalTextDecorationLineThrough = "line-through";
-export const GlobalTextTransformCapitalize = "capitalize";
-export const GlobalTextTransformUppercase = "uppercase";
-export const GlobalTextTransformLowercase = "lowercase";
-export const GlobalTextTransformNone = "none";

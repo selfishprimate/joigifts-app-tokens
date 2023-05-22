@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 22 May 2023 10:40:54 GMT
+ * Generated on Mon, 22 May 2023 11:01:26 GMT
  */
 
 :root {
@@ -143,11 +143,11 @@
   --semantic-typescale-caption-default-bold-line-height: normal;
   --semantic-typescale-caption-default-bold-font-size: 12;
   --semantic-typescale-caption-default-bold-text-decoration: none;
-  --semantic-typescale-caption-default-underlined-font-family: Inter, sans-serif;
-  --semantic-typescale-caption-default-underlined-font-weight: 400;
-  --semantic-typescale-caption-default-underlined-line-height: normal;
-  --semantic-typescale-caption-default-underlined-font-size: 12;
-  --semantic-typescale-caption-default-underlined-text-decoration: underline;
+  --semantic-typescale-caption-default-underline-font-family: Inter, sans-serif;
+  --semantic-typescale-caption-default-underline-font-weight: 400;
+  --semantic-typescale-caption-default-underline-line-height: normal;
+  --semantic-typescale-caption-default-underline-font-size: 12;
+  --semantic-typescale-caption-default-underline-text-decoration: underline;
   --semantic-typescale-caption-default-line-through-font-family: Inter, sans-serif;
   --semantic-typescale-caption-default-line-through-font-weight: 400;
   --semantic-typescale-caption-default-line-through-line-height: normal;
@@ -344,10 +344,13 @@
   --semantic-color-text-warning: #ea580c;
   --semantic-color-text-attention: #eab308;
   --semantic-color-text-danger: #dc2626;
-  --semantic-text-transform-none: none;
-  --semantic-text-transform-capitalize: capitalize;
-  --semantic-text-transform-uppercase: uppercase;
-  --semantic-text-transform-lowercase: lowercase;
+  --semantic-text-case-none: none;
+  --semantic-text-case-capitalize: capitalize;
+  --semantic-text-case-uppercase: uppercase;
+  --semantic-text-case-lowercase: lowercase;
+  --semantic-text-decoration-none: none;
+  --semantic-text-decoration-underline: underline;
+  --semantic-text-decoration-line-through: line-through;
   --global-font-weight-thin: 200;
   --global-font-weight-extra-light: 200;
   --global-font-weight-light: 300;
@@ -667,11 +670,4 @@
   --global-color-teak-800: #6c5640;
   --global-color-teak-900: #584736;
   --global-color-teak-950: #2f241b;
-  --global-text-decoration-none: none;
-  --global-text-decoration-underline: underline;
-  --global-text-decoration-line-through: line-through;
-  --global-text-transform-capitalize: capitalize;
-  --global-text-transform-uppercase: uppercase;
-  --global-text-transform-lowercase: lowercase;
-  --global-text-transform-none: none;
 }
