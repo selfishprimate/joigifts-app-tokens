@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 22 May 2023 09:59:19 GMT
+ * Generated on Mon, 22 May 2023 10:11:08 GMT
  */
 
 export const SemanticOpacity10 = 0.04;
@@ -74,11 +74,16 @@ export const SemanticTypescaleBodyDefaultBoldFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleBodyDefaultBoldFontWeight = 700;
 export const SemanticTypescaleBodyDefaultBoldLineHeight = "normal";
 export const SemanticTypescaleBodyDefaultBoldFontSize = 16;
-export const SemanticTypescaleBodyDefaultUnderlinedFontFamily = "Inter, sans-serif";
-export const SemanticTypescaleBodyDefaultUnderlinedFontWeight = 400;
-export const SemanticTypescaleBodyDefaultUnderlinedLineHeight = "normal";
-export const SemanticTypescaleBodyDefaultUnderlinedFontSize = 16;
-export const SemanticTypescaleBodyDefaultUnderlinedTextDecoration = "underline";
+export const SemanticTypescaleBodyDefaultUnderlineFontFamily = "Inter, sans-serif";
+export const SemanticTypescaleBodyDefaultUnderlineFontWeight = 400;
+export const SemanticTypescaleBodyDefaultUnderlineLineHeight = "normal";
+export const SemanticTypescaleBodyDefaultUnderlineFontSize = 16;
+export const SemanticTypescaleBodyDefaultUnderlineTextDecoration = "underline";
+export const SemanticTypescaleBodyDefaultLineThroughFontFamily = "Inter, sans-serif";
+export const SemanticTypescaleBodyDefaultLineThroughFontWeight = 400;
+export const SemanticTypescaleBodyDefaultLineThroughLineHeight = "normal";
+export const SemanticTypescaleBodyDefaultLineThroughFontSize = 16;
+export const SemanticTypescaleBodyDefaultLineThroughTextDecoration = "line-through";
 export const SemanticTypescaleBodySmallNormalFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleBodySmallNormalFontWeight = 400;
 export const SemanticTypescaleBodySmallNormalLineHeight = "normal";
@@ -95,11 +100,16 @@ export const SemanticTypescaleBodySmallBoldFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleBodySmallBoldFontWeight = 700;
 export const SemanticTypescaleBodySmallBoldLineHeight = "normal";
 export const SemanticTypescaleBodySmallBoldFontSize = 14;
-export const SemanticTypescaleBodySmallUnderlinedFontFamily = "Inter, sans-serif";
-export const SemanticTypescaleBodySmallUnderlinedFontWeight = 400;
-export const SemanticTypescaleBodySmallUnderlinedLineHeight = "normal";
-export const SemanticTypescaleBodySmallUnderlinedFontSize = 14;
-export const SemanticTypescaleBodySmallUnderlinedTextDecoration = "underline";
+export const SemanticTypescaleBodySmallUnderlineFontFamily = "Inter, sans-serif";
+export const SemanticTypescaleBodySmallUnderlineFontWeight = 400;
+export const SemanticTypescaleBodySmallUnderlineLineHeight = "normal";
+export const SemanticTypescaleBodySmallUnderlineFontSize = 14;
+export const SemanticTypescaleBodySmallUnderlineTextDecoration = "underline";
+export const SemanticTypescaleBodySmallLineThroughFontFamily = "Inter, sans-serif";
+export const SemanticTypescaleBodySmallLineThroughFontWeight = 400;
+export const SemanticTypescaleBodySmallLineThroughLineHeight = "normal";
+export const SemanticTypescaleBodySmallLineThroughFontSize = 14;
+export const SemanticTypescaleBodySmallLineThroughTextDecoration = "line-through";
 export const SemanticTypescaleCaptionDefaultNormalFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleCaptionDefaultNormalFontWeight = 400;
 export const SemanticTypescaleCaptionDefaultNormalLineHeight = "normal";
@@ -121,6 +131,11 @@ export const SemanticTypescaleCaptionDefaultUnderlinedFontWeight = 400;
 export const SemanticTypescaleCaptionDefaultUnderlinedLineHeight = "normal";
 export const SemanticTypescaleCaptionDefaultUnderlinedFontSize = 12;
 export const SemanticTypescaleCaptionDefaultUnderlinedTextDecoration = "underline";
+export const SemanticTypescaleCaptionDefaultLineThroughFontFamily = "Inter, sans-serif";
+export const SemanticTypescaleCaptionDefaultLineThroughFontWeight = 400;
+export const SemanticTypescaleCaptionDefaultLineThroughLineHeight = "normal";
+export const SemanticTypescaleCaptionDefaultLineThroughFontSize = 12;
+export const SemanticTypescaleCaptionDefaultLineThroughTextDecoration = "line-through";
 export const SemanticTypescaleSubtitleLargeLightFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleSubtitleLargeLightFontWeight = 300;
 export const SemanticTypescaleSubtitleLargeLightLineHeight = "140%";

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 22 May 2023 09:59:19 GMT
+ * Generated on Mon, 22 May 2023 10:11:07 GMT
  */
 
 :root {
@@ -75,11 +75,16 @@
   --semantic-typescale-body-default-bold-font-weight: 700;
   --semantic-typescale-body-default-bold-line-height: normal;
   --semantic-typescale-body-default-bold-font-size: 16;
-  --semantic-typescale-body-default-underlined-font-family: Inter, sans-serif;
-  --semantic-typescale-body-default-underlined-font-weight: 400;
-  --semantic-typescale-body-default-underlined-line-height: normal;
-  --semantic-typescale-body-default-underlined-font-size: 16;
-  --semantic-typescale-body-default-underlined-text-decoration: underline;
+  --semantic-typescale-body-default-underline-font-family: Inter, sans-serif;
+  --semantic-typescale-body-default-underline-font-weight: 400;
+  --semantic-typescale-body-default-underline-line-height: normal;
+  --semantic-typescale-body-default-underline-font-size: 16;
+  --semantic-typescale-body-default-underline-text-decoration: underline;
+  --semantic-typescale-body-default-line-through-font-family: Inter, sans-serif;
+  --semantic-typescale-body-default-line-through-font-weight: 400;
+  --semantic-typescale-body-default-line-through-line-height: normal;
+  --semantic-typescale-body-default-line-through-font-size: 16;
+  --semantic-typescale-body-default-line-through-text-decoration: line-through;
   --semantic-typescale-body-small-normal-font-family: Inter, sans-serif;
   --semantic-typescale-body-small-normal-font-weight: 400;
   --semantic-typescale-body-small-normal-line-height: normal;
@@ -96,11 +101,16 @@
   --semantic-typescale-body-small-bold-font-weight: 700;
   --semantic-typescale-body-small-bold-line-height: normal;
   --semantic-typescale-body-small-bold-font-size: 14;
-  --semantic-typescale-body-small-underlined-font-family: Inter, sans-serif;
-  --semantic-typescale-body-small-underlined-font-weight: 400;
-  --semantic-typescale-body-small-underlined-line-height: normal;
-  --semantic-typescale-body-small-underlined-font-size: 14;
-  --semantic-typescale-body-small-underlined-text-decoration: underline;
+  --semantic-typescale-body-small-underline-font-family: Inter, sans-serif;
+  --semantic-typescale-body-small-underline-font-weight: 400;
+  --semantic-typescale-body-small-underline-line-height: normal;
+  --semantic-typescale-body-small-underline-font-size: 14;
+  --semantic-typescale-body-small-underline-text-decoration: underline;
+  --semantic-typescale-body-small-line-through-font-family: Inter, sans-serif;
+  --semantic-typescale-body-small-line-through-font-weight: 400;
+  --semantic-typescale-body-small-line-through-line-height: normal;
+  --semantic-typescale-body-small-line-through-font-size: 14;
+  --semantic-typescale-body-small-line-through-text-decoration: line-through;
   --semantic-typescale-caption-default-normal-font-family: Inter, sans-serif;
   --semantic-typescale-caption-default-normal-font-weight: 400;
   --semantic-typescale-caption-default-normal-line-height: normal;
@@ -122,6 +132,11 @@
   --semantic-typescale-caption-default-underlined-line-height: normal;
   --semantic-typescale-caption-default-underlined-font-size: 12;
   --semantic-typescale-caption-default-underlined-text-decoration: underline;
+  --semantic-typescale-caption-default-line-through-font-family: Inter, sans-serif;
+  --semantic-typescale-caption-default-line-through-font-weight: 400;
+  --semantic-typescale-caption-default-line-through-line-height: normal;
+  --semantic-typescale-caption-default-line-through-font-size: 12;
+  --semantic-typescale-caption-default-line-through-text-decoration: line-through;
   --semantic-typescale-subtitle-large-light-font-family: Inter, sans-serif;
   --semantic-typescale-subtitle-large-light-font-weight: 300;
   --semantic-typescale-subtitle-large-light-line-height: 140%;
