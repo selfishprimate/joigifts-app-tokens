@@ -1537,8 +1537,8 @@
         }
       },
       "typescale": {
-        "heading": {
-          "01": {
+        "title": {
+          "xlarge": {
             "value": {
               "fontFamily": "{semantic.fontFamily.ltr.primary}",
               "fontWeight": "{global.fontWeight.bold}",
@@ -1547,7 +1547,7 @@
             },
             "type": "typography"
           },
-          "02": {
+          "large": {
             "value": {
               "fontFamily": "{semantic.fontFamily.ltr.primary}",
               "fontWeight": "{global.fontWeight.bold}",
@@ -1556,7 +1556,7 @@
             },
             "type": "typography"
           },
-          "03": {
+          "medium": {
             "value": {
               "fontFamily": "{semantic.fontFamily.ltr.primary}",
               "fontWeight": "{global.fontWeight.bold}",
@@ -1565,12 +1565,21 @@
             },
             "type": "typography"
           },
-          "04": {
+          "default": {
             "value": {
               "fontFamily": "{semantic.fontFamily.ltr.primary}",
               "fontWeight": "{global.fontWeight.semiBold}",
               "lineHeight": "{global.lineHeight.large}",
               "fontSize": "{global.fontSize.large}"
+            },
+            "type": "typography"
+          },
+          "small": {
+            "value": {
+              "fontFamily": "{semantic.fontFamily.ltr.primary}",
+              "fontWeight": "{global.fontWeight.semiBold}",
+              "lineHeight": "{global.lineHeight.large}",
+              "fontSize": "{global.fontSize.medium}"
             },
             "type": "typography"
           }
