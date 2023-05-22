@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 22 May 2023 09:54:18 GMT
+ * Generated on Mon, 22 May 2023 09:59:19 GMT
  */
 
 export const SemanticOpacity10 = 0.04;
@@ -121,18 +121,42 @@ export const SemanticTypescaleCaptionDefaultUnderlinedFontWeight = 400;
 export const SemanticTypescaleCaptionDefaultUnderlinedLineHeight = "normal";
 export const SemanticTypescaleCaptionDefaultUnderlinedFontSize = 12;
 export const SemanticTypescaleCaptionDefaultUnderlinedTextDecoration = "underline";
+export const SemanticTypescaleSubtitleLargeLightFontFamily = "Inter, sans-serif";
+export const SemanticTypescaleSubtitleLargeLightFontWeight = 300;
+export const SemanticTypescaleSubtitleLargeLightLineHeight = "140%";
+export const SemanticTypescaleSubtitleLargeLightFontSize = 18;
+export const SemanticTypescaleSubtitleLargeNormalFontFamily = "Inter, sans-serif";
+export const SemanticTypescaleSubtitleLargeNormalFontWeight = 400;
+export const SemanticTypescaleSubtitleLargeNormalLineHeight = "140%";
+export const SemanticTypescaleSubtitleLargeNormalFontSize = 18;
+export const SemanticTypescaleSubtitleLargeMediumFontFamily = "Inter, sans-serif";
+export const SemanticTypescaleSubtitleLargeMediumFontWeight = 500;
+export const SemanticTypescaleSubtitleLargeMediumLineHeight = "140%";
+export const SemanticTypescaleSubtitleLargeMediumFontSize = 18;
 export const SemanticTypescaleSubtitleDefaultLightFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleSubtitleDefaultLightFontWeight = 300;
 export const SemanticTypescaleSubtitleDefaultLightLineHeight = "140%";
-export const SemanticTypescaleSubtitleDefaultLightFontSize = 18;
+export const SemanticTypescaleSubtitleDefaultLightFontSize = 16;
 export const SemanticTypescaleSubtitleDefaultNormalFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleSubtitleDefaultNormalFontWeight = 400;
 export const SemanticTypescaleSubtitleDefaultNormalLineHeight = "140%";
-export const SemanticTypescaleSubtitleDefaultNormalFontSize = 18;
+export const SemanticTypescaleSubtitleDefaultNormalFontSize = 16;
 export const SemanticTypescaleSubtitleDefaultMediumFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleSubtitleDefaultMediumFontWeight = 500;
 export const SemanticTypescaleSubtitleDefaultMediumLineHeight = "140%";
-export const SemanticTypescaleSubtitleDefaultMediumFontSize = 18;
+export const SemanticTypescaleSubtitleDefaultMediumFontSize = 16;
+export const SemanticTypescaleSubtitleSmallLightFontFamily = "Inter, sans-serif";
+export const SemanticTypescaleSubtitleSmallLightFontWeight = 300;
+export const SemanticTypescaleSubtitleSmallLightLineHeight = "140%";
+export const SemanticTypescaleSubtitleSmallLightFontSize = 14;
+export const SemanticTypescaleSubtitleSmallNormalFontFamily = "Inter, sans-serif";
+export const SemanticTypescaleSubtitleSmallNormalFontWeight = 400;
+export const SemanticTypescaleSubtitleSmallNormalLineHeight = "140%";
+export const SemanticTypescaleSubtitleSmallNormalFontSize = 14;
+export const SemanticTypescaleSubtitleSmallMediumFontFamily = "Inter, sans-serif";
+export const SemanticTypescaleSubtitleSmallMediumFontWeight = 500;
+export const SemanticTypescaleSubtitleSmallMediumLineHeight = "140%";
+export const SemanticTypescaleSubtitleSmallMediumFontSize = 14;
 export const SemanticTypescaleButtonLargeFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleButtonLargeFontWeight = 500;
 export const SemanticTypescaleButtonLargeLineHeight = "normal";
