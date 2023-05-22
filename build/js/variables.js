@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 22 May 2023 10:34:04 GMT
+ * Generated on Mon, 22 May 2023 10:40:54 GMT
  */
 
 export const SemanticOpacity10 = 0.04;
@@ -66,18 +66,22 @@ export const SemanticTypescaleBodyDefaultNormalFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleBodyDefaultNormalFontWeight = 400;
 export const SemanticTypescaleBodyDefaultNormalLineHeight = "normal";
 export const SemanticTypescaleBodyDefaultNormalFontSize = 16;
+export const SemanticTypescaleBodyDefaultNormalTextDecoration = "none";
 export const SemanticTypescaleBodyDefaultMediumFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleBodyDefaultMediumFontWeight = 500;
 export const SemanticTypescaleBodyDefaultMediumLineHeight = "normal";
 export const SemanticTypescaleBodyDefaultMediumFontSize = 16;
+export const SemanticTypescaleBodyDefaultMediumTextDecoration = "none";
 export const SemanticTypescaleBodyDefaultSemiBoldFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleBodyDefaultSemiBoldFontWeight = 600;
 export const SemanticTypescaleBodyDefaultSemiBoldLineHeight = "normal";
 export const SemanticTypescaleBodyDefaultSemiBoldFontSize = 16;
+export const SemanticTypescaleBodyDefaultSemiBoldTextDecoration = "none";
 export const SemanticTypescaleBodyDefaultBoldFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleBodyDefaultBoldFontWeight = 700;
 export const SemanticTypescaleBodyDefaultBoldLineHeight = "normal";
 export const SemanticTypescaleBodyDefaultBoldFontSize = 16;
+export const SemanticTypescaleBodyDefaultBoldTextDecoration = "none";
 export const SemanticTypescaleBodyDefaultUnderlineFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleBodyDefaultUnderlineFontWeight = 400;
 export const SemanticTypescaleBodyDefaultUnderlineLineHeight = "normal";
@@ -92,18 +96,22 @@ export const SemanticTypescaleBodySmallNormalFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleBodySmallNormalFontWeight = 400;
 export const SemanticTypescaleBodySmallNormalLineHeight = "normal";
 export const SemanticTypescaleBodySmallNormalFontSize = 14;
+export const SemanticTypescaleBodySmallNormalTextDecoration = "none";
 export const SemanticTypescaleBodySmallMediumFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleBodySmallMediumFontWeight = 500;
 export const SemanticTypescaleBodySmallMediumLineHeight = "normal";
 export const SemanticTypescaleBodySmallMediumFontSize = 14;
+export const SemanticTypescaleBodySmallMediumTextDecoration = "none";
 export const SemanticTypescaleBodySmallSemiBoldFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleBodySmallSemiBoldFontWeight = 600;
 export const SemanticTypescaleBodySmallSemiBoldLineHeight = "normal";
 export const SemanticTypescaleBodySmallSemiBoldFontSize = 14;
+export const SemanticTypescaleBodySmallSemiBoldTextDecoration = "none";
 export const SemanticTypescaleBodySmallBoldFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleBodySmallBoldFontWeight = 700;
 export const SemanticTypescaleBodySmallBoldLineHeight = "normal";
 export const SemanticTypescaleBodySmallBoldFontSize = 14;
+export const SemanticTypescaleBodySmallBoldTextDecoration = "none";
 export const SemanticTypescaleBodySmallUnderlineFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleBodySmallUnderlineFontWeight = 400;
 export const SemanticTypescaleBodySmallUnderlineLineHeight = "normal";
@@ -118,18 +126,22 @@ export const SemanticTypescaleCaptionDefaultNormalFontFamily = "Inter, sans-seri
 export const SemanticTypescaleCaptionDefaultNormalFontWeight = 400;
 export const SemanticTypescaleCaptionDefaultNormalLineHeight = "normal";
 export const SemanticTypescaleCaptionDefaultNormalFontSize = 12;
+export const SemanticTypescaleCaptionDefaultNormalTextDecoration = "none";
 export const SemanticTypescaleCaptionDefaultMediumFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleCaptionDefaultMediumFontWeight = 500;
 export const SemanticTypescaleCaptionDefaultMediumLineHeight = "normal";
 export const SemanticTypescaleCaptionDefaultMediumFontSize = 12;
+export const SemanticTypescaleCaptionDefaultMediumTextDecoration = "none";
 export const SemanticTypescaleCaptionDefaultSemiBoldFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleCaptionDefaultSemiBoldFontWeight = 600;
 export const SemanticTypescaleCaptionDefaultSemiBoldLineHeight = "normal";
 export const SemanticTypescaleCaptionDefaultSemiBoldFontSize = 12;
+export const SemanticTypescaleCaptionDefaultSemiBoldTextDecoration = "none";
 export const SemanticTypescaleCaptionDefaultBoldFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleCaptionDefaultBoldFontWeight = 700;
 export const SemanticTypescaleCaptionDefaultBoldLineHeight = "normal";
 export const SemanticTypescaleCaptionDefaultBoldFontSize = 12;
+export const SemanticTypescaleCaptionDefaultBoldTextDecoration = "none";
 export const SemanticTypescaleCaptionDefaultUnderlinedFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleCaptionDefaultUnderlinedFontWeight = 400;
 export const SemanticTypescaleCaptionDefaultUnderlinedLineHeight = "normal";

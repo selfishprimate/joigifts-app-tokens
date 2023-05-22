@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 22 May 2023 10:34:04 GMT
+ * Generated on Mon, 22 May 2023 10:40:54 GMT
  */
 
 :root {
@@ -67,18 +67,22 @@
   --semantic-typescale-body-default-normal-font-weight: 400;
   --semantic-typescale-body-default-normal-line-height: normal;
   --semantic-typescale-body-default-normal-font-size: 16;
+  --semantic-typescale-body-default-normal-text-decoration: none;
   --semantic-typescale-body-default-medium-font-family: Inter, sans-serif;
   --semantic-typescale-body-default-medium-font-weight: 500;
   --semantic-typescale-body-default-medium-line-height: normal;
   --semantic-typescale-body-default-medium-font-size: 16;
+  --semantic-typescale-body-default-medium-text-decoration: none;
   --semantic-typescale-body-default-semi-bold-font-family: Inter, sans-serif;
   --semantic-typescale-body-default-semi-bold-font-weight: 600;
   --semantic-typescale-body-default-semi-bold-line-height: normal;
   --semantic-typescale-body-default-semi-bold-font-size: 16;
+  --semantic-typescale-body-default-semi-bold-text-decoration: none;
   --semantic-typescale-body-default-bold-font-family: Inter, sans-serif;
   --semantic-typescale-body-default-bold-font-weight: 700;
   --semantic-typescale-body-default-bold-line-height: normal;
   --semantic-typescale-body-default-bold-font-size: 16;
+  --semantic-typescale-body-default-bold-text-decoration: none;
   --semantic-typescale-body-default-underline-font-family: Inter, sans-serif;
   --semantic-typescale-body-default-underline-font-weight: 400;
   --semantic-typescale-body-default-underline-line-height: normal;
@@ -93,18 +97,22 @@
   --semantic-typescale-body-small-normal-font-weight: 400;
   --semantic-typescale-body-small-normal-line-height: normal;
   --semantic-typescale-body-small-normal-font-size: 14;
+  --semantic-typescale-body-small-normal-text-decoration: none;
   --semantic-typescale-body-small-medium-font-family: Inter, sans-serif;
   --semantic-typescale-body-small-medium-font-weight: 500;
   --semantic-typescale-body-small-medium-line-height: normal;
   --semantic-typescale-body-small-medium-font-size: 14;
+  --semantic-typescale-body-small-medium-text-decoration: none;
   --semantic-typescale-body-small-semi-bold-font-family: Inter, sans-serif;
   --semantic-typescale-body-small-semi-bold-font-weight: 600;
   --semantic-typescale-body-small-semi-bold-line-height: normal;
   --semantic-typescale-body-small-semi-bold-font-size: 14;
+  --semantic-typescale-body-small-semi-bold-text-decoration: none;
   --semantic-typescale-body-small-bold-font-family: Inter, sans-serif;
   --semantic-typescale-body-small-bold-font-weight: 700;
   --semantic-typescale-body-small-bold-line-height: normal;
   --semantic-typescale-body-small-bold-font-size: 14;
+  --semantic-typescale-body-small-bold-text-decoration: none;
   --semantic-typescale-body-small-underline-font-family: Inter, sans-serif;
   --semantic-typescale-body-small-underline-font-weight: 400;
   --semantic-typescale-body-small-underline-line-height: normal;
@@ -119,18 +127,22 @@
   --semantic-typescale-caption-default-normal-font-weight: 400;
   --semantic-typescale-caption-default-normal-line-height: normal;
   --semantic-typescale-caption-default-normal-font-size: 12;
+  --semantic-typescale-caption-default-normal-text-decoration: none;
   --semantic-typescale-caption-default-medium-font-family: Inter, sans-serif;
   --semantic-typescale-caption-default-medium-font-weight: 500;
   --semantic-typescale-caption-default-medium-line-height: normal;
   --semantic-typescale-caption-default-medium-font-size: 12;
+  --semantic-typescale-caption-default-medium-text-decoration: none;
   --semantic-typescale-caption-default-semi-bold-font-family: Inter, sans-serif;
   --semantic-typescale-caption-default-semi-bold-font-weight: 600;
   --semantic-typescale-caption-default-semi-bold-line-height: normal;
   --semantic-typescale-caption-default-semi-bold-font-size: 12;
+  --semantic-typescale-caption-default-semi-bold-text-decoration: none;
   --semantic-typescale-caption-default-bold-font-family: Inter, sans-serif;
   --semantic-typescale-caption-default-bold-font-weight: 700;
   --semantic-typescale-caption-default-bold-line-height: normal;
   --semantic-typescale-caption-default-bold-font-size: 12;
+  --semantic-typescale-caption-default-bold-text-decoration: none;
   --semantic-typescale-caption-default-underlined-font-family: Inter, sans-serif;
   --semantic-typescale-caption-default-underlined-font-weight: 400;
   --semantic-typescale-caption-default-underlined-line-height: normal;
