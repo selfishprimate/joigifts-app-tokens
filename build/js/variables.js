@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 22 May 2023 09:35:05 GMT
+ * Generated on Mon, 22 May 2023 09:54:18 GMT
  */
 
 export const SemanticOpacity10 = 0.04;
@@ -145,6 +145,10 @@ export const SemanticTypescaleButtonSmallFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleButtonSmallFontWeight = 500;
 export const SemanticTypescaleButtonSmallLineHeight = "normal";
 export const SemanticTypescaleButtonSmallFontSize = 14;
+export const SemanticTypescaleButtonXsmallFontFamily = "Inter, sans-serif";
+export const SemanticTypescaleButtonXsmallFontWeight = 500;
+export const SemanticTypescaleButtonXsmallLineHeight = "normal";
+export const SemanticTypescaleButtonXsmallFontSize = 12;
 export const SemanticTypescaleBadgeNormalFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleBadgeNormalFontWeight = 400;
 export const SemanticTypescaleBadgeNormalLineHeight = "normal";
