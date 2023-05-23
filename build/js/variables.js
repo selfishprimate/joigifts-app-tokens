@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 23 May 2023 11:51:05 GMT
+ * Generated on Tue, 23 May 2023 12:18:12 GMT
  */
 
 export const SemanticOpacity10 = 0.04;
@@ -181,14 +181,14 @@ export const SemanticLineHeightNormal = "normal";
 export const SemanticLineHeightDefault = "120%";
 export const SemanticLineHeightMedium = "130%";
 export const SemanticLineHeightLarge = "140%";
-export const SemanticBorderRadiusNone = 0;
-export const SemanticBorderRadiusXsmall = "2px";
-export const SemanticBorderRadiusSmall = "4px";
-export const SemanticBorderRadiusDefault = "6px";
-export const SemanticBorderRadiusMedium = "8px";
-export const SemanticBorderRadiusLarge = "16px";
-export const SemanticBorderRadiusXlarge = "32px";
-export const SemanticBorderRadiusXxlarge = "64px";
+export const SemanticRadiiNone = 0;
+export const SemanticRadiiXsmall = "2px";
+export const SemanticRadiiSmall = "4px";
+export const SemanticRadiiDefault = "6px";
+export const SemanticRadiiMedium = "8px";
+export const SemanticRadiiLarge = "16px";
+export const SemanticRadiiXlarge = "32px";
+export const SemanticRadiiXxlarge = "64px";
 export const SemanticColorPrimaryDefault = "#47825d";
 export const SemanticColorPrimaryOndefault = "#ffffff";
 export const SemanticColorPrimaryStrong = "#234230";
