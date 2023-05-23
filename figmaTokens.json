@@ -1826,32 +1826,6 @@
           "type": "lineHeights"
         }
       },
-      "breakpoints": {
-        "none": {
-          "value": "{global.breakpoints.tailwind.none}",
-          "type": "sizing"
-        },
-        "small": {
-          "value": "{global.breakpoints.tailwind.small}",
-          "type": "sizing"
-        },
-        "medium": {
-          "value": "{global.breakpoints.tailwind.medium}",
-          "type": "sizing"
-        },
-        "large": {
-          "value": "{global.breakpoints.tailwind.large}",
-          "type": "sizing"
-        },
-        "xlarge": {
-          "value": "{global.breakpoints.tailwind.xlarge}",
-          "type": "sizing"
-        },
-        "xxlarge": {
-          "value": "{global.breakpoints.tailwind.xxlarge}",
-          "type": "sizing"
-        }
-      },
       "borderRadius": {
         "none": {
           "value": "0",
