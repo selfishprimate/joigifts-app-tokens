@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 23 May 2023 12:18:12 GMT
+ * Generated on Tue, 23 May 2023 13:03:49 GMT
  */
 
 export const SemanticOpacity10 = 0.04;
@@ -313,6 +313,13 @@ export const SemanticSpacing48 = "192px";
 export const SemanticSpacing56 = "224px";
 export const SemanticSpacing025 = "1px";
 export const SemanticSpacing05 = "2px";
+export const SemanticShadowSmall = {"color":"#0000000d","type":"dropShadow","x":0,"y":1,"blur":2,"spread":0};
+export const SemanticShadowDefault = [{"color":"#0000000f","type":"dropShadow","x":0,"y":1,"blur":2,"spread":0},{"color":"#0000001a","type":"dropShadow","x":0,"y":1,"blur":3,"spread":0}];
+export const SemanticShadowMedium = [{"color":"#0000000f","type":"dropShadow","x":0,"y":2,"blur":4,"spread":-1},{"color":"#0000001a","type":"dropShadow","x":0,"y":4,"blur":6,"spread":-1}];
+export const SemanticShadowLarge = [{"color":"#0000000d","type":"dropShadow","x":0,"y":4,"blur":6,"spread":-2},{"color":"#0000001a","type":"dropShadow","x":0,"y":10,"blur":15,"spread":-3}];
+export const SemanticShadowXlarge = [{"color":"#0000000a","type":"dropShadow","x":0,"y":10,"blur":10,"spread":-5},{"color":"#0000001a","type":"dropShadow","x":0,"y":20,"blur":25,"spread":-5}];
+export const SemanticShadowXxlarge = {"color":"#00000040","type":"dropShadow","x":0,"y":25,"blur":50,"spread":-12};
+export const SemanticShadowInner = {"color":"#0000000f","type":"innerShadow","x":0,"y":2,"blur":4,"spread":0};
 export const GlobalFontWeightThin = 200;
 export const GlobalFontWeightExtraLight = 200;
 export const GlobalFontWeightLight = 300;
