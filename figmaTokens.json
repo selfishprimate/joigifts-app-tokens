@@ -1826,7 +1826,7 @@
           "type": "lineHeights"
         }
       },
-      "borderRadius": {
+      "radii": {
         "none": {
           "value": "0",
           "type": "borderRadius"
