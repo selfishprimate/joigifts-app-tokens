@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 22 May 2023 14:50:20 GMT
+ * Generated on Tue, 23 May 2023 10:10:03 GMT
  */
 
 export const SemanticOpacity10 = 0.04;
@@ -18,30 +18,6 @@ export const SemanticOpacity800 = 0.85;
 export const SemanticOpacity900 = 0.95;
 export const SemanticOpacityNone = 0;
 export const SemanticOpacityOpaque = 1;
-export const SemanticSpacingSmall100 = "2px";
-export const SemanticSpacingSmall200 = "4px";
-export const SemanticSpacingSmall300 = "6px";
-export const SemanticSpacingSmall400 = "8px";
-export const SemanticSpacingDefault100 = "12px";
-export const SemanticSpacingDefault200 = "16px";
-export const SemanticSpacingDefault300 = "24px";
-export const SemanticSpacingDefault400 = "32px";
-export const SemanticSpacingMedium100 = "34px";
-export const SemanticSpacingMedium200 = "36px";
-export const SemanticSpacingMedium300 = "40px";
-export const SemanticSpacingMedium400 = "44px";
-export const SemanticSpacingLarge100 = "48px";
-export const SemanticSpacingLarge200 = "56px";
-export const SemanticSpacingLarge300 = "60px";
-export const SemanticSpacingLarge400 = "64px";
-export const SemanticSpacingXlarge100 = "72px";
-export const SemanticSpacingXlarge200 = "80px";
-export const SemanticSpacingXlarge300 = "96px";
-export const SemanticSpacingXlarge400 = "120px";
-export const SemanticSpacingXxlarge100 = "160px";
-export const SemanticSpacingXxlarge200 = "240px";
-export const SemanticSpacingXxlarge300 = "320px";
-export const SemanticSpacingXxlarge400 = "480px";
 export const SemanticTypescaleTitleXlargeFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleTitleXlargeFontWeight = 700;
 export const SemanticTypescaleTitleXlargeLineHeight = "140%";
@@ -320,6 +296,29 @@ export const SemanticTextCaseLowercase = "lowercase";
 export const SemanticTextDecorationNone = "none";
 export const SemanticTextDecorationUnderline = "underline";
 export const SemanticTextDecorationLineThrough = "line-through";
+export const SemanticSpacing0 = 0;
+export const SemanticSpacing1 = "4px";
+export const SemanticSpacing2 = "8px";
+export const SemanticSpacing3 = "12px";
+export const SemanticSpacing4 = "16px";
+export const SemanticSpacing5 = "20px";
+export const SemanticSpacing6 = "24px";
+export const SemanticSpacing7 = "28px";
+export const SemanticSpacing8 = "32px";
+export const SemanticSpacing9 = "36px";
+export const SemanticSpacing10 = "40px";
+export const SemanticSpacing12 = "48px";
+export const SemanticSpacing14 = "56px";
+export const SemanticSpacing16 = "64px";
+export const SemanticSpacing20 = "80px";
+export const SemanticSpacing24 = "96px";
+export const SemanticSpacing28 = "112px";
+export const SemanticSpacing32 = "128px";
+export const SemanticSpacing40 = "160px";
+export const SemanticSpacing48 = "192px";
+export const SemanticSpacing56 = "224px";
+export const SemanticSpacing025 = "1px";
+export const SemanticSpacing05 = "2px";
 export const GlobalFontWeightThin = 200;
 export const GlobalFontWeightExtraLight = 200;
 export const GlobalFontWeightLight = 300;
