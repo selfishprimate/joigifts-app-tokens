@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 23 May 2023 10:10:03 GMT
+ * Generated on Tue, 23 May 2023 11:51:05 GMT
  */
 
 export const SemanticOpacity10 = 0.04;
@@ -181,12 +181,6 @@ export const SemanticLineHeightNormal = "normal";
 export const SemanticLineHeightDefault = "120%";
 export const SemanticLineHeightMedium = "130%";
 export const SemanticLineHeightLarge = "140%";
-export const SemanticBreakpointsNone = 0;
-export const SemanticBreakpointsSmall = "640px";
-export const SemanticBreakpointsMedium = "768px";
-export const SemanticBreakpointsLarge = "1024px";
-export const SemanticBreakpointsXlarge = "1280px";
-export const SemanticBreakpointsXxlarge = "1536px";
 export const SemanticBorderRadiusNone = 0;
 export const SemanticBorderRadiusXsmall = "2px";
 export const SemanticBorderRadiusSmall = "4px";

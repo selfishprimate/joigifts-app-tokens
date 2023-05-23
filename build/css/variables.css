@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 23 May 2023 10:10:03 GMT
+ * Generated on Tue, 23 May 2023 11:51:05 GMT
  */
 
 :root {
@@ -182,12 +182,6 @@
   --semantic-line-height-default: 120%;
   --semantic-line-height-medium: 130%;
   --semantic-line-height-large: 140%;
-  --semantic-breakpoints-none: 0;
-  --semantic-breakpoints-small: 640px;
-  --semantic-breakpoints-medium: 768px;
-  --semantic-breakpoints-large: 1024px;
-  --semantic-breakpoints-xlarge: 1280px;
-  --semantic-breakpoints-xxlarge: 1536px;
   --semantic-border-radius-none: 0;
   --semantic-border-radius-xsmall: 2px;
   --semantic-border-radius-small: 4px;
