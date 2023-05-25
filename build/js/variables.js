@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 23 May 2023 13:30:53 GMT
+ * Generated on Thu, 25 May 2023 09:40:15 GMT
  */
 
 export const SemanticOpacity10 = 0.04;
@@ -320,6 +320,23 @@ export const SemanticShadowLarge = [{"color":"#0000000d","type":"dropShadow","x"
 export const SemanticShadowXlarge = [{"color":"#0000000a","type":"dropShadow","x":0,"y":10,"blur":10,"spread":-5},{"color":"#0000001a","type":"dropShadow","x":0,"y":20,"blur":25,"spread":-5}];
 export const SemanticShadowXxlarge = {"color":"#00000040","type":"dropShadow","x":0,"y":25,"blur":50,"spread":-12};
 export const SemanticShadowInner = {"color":"#0000000f","type":"innerShadow","x":0,"y":2,"blur":4,"spread":0};
+export const SemanticSizing0 = 0;
+export const SemanticSizing1 = "4px";
+export const SemanticSizing2 = "8px";
+export const SemanticSizing3 = "12px";
+export const SemanticSizing4 = "16px";
+export const SemanticSizing5 = "20px";
+export const SemanticSizing6 = "24px";
+export const SemanticSizing7 = "28px";
+export const SemanticSizing8 = "32px";
+export const SemanticSizing9 = "36px";
+export const SemanticSizing10 = "40px";
+export const SemanticSizing11 = "44px";
+export const SemanticSizing12 = "48px";
+export const SemanticSizing13 = "52px";
+export const SemanticSizing14 = "56px";
+export const SemanticSizing15 = "60px";
+export const SemanticSizing16 = "64px";
 export const GlobalFontWeightThin = 200;
 export const GlobalFontWeightExtraLight = 200;
 export const GlobalFontWeightLight = 300;
