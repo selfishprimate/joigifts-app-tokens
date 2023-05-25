@@ -2577,6 +2577,22 @@
         "16": {
           "value": "64px",
           "type": "sizing"
+        },
+        "17": {
+          "value": "68px",
+          "type": "sizing"
+        },
+        "18": {
+          "value": "72px",
+          "type": "sizing"
+        },
+        "19": {
+          "value": "76px",
+          "type": "sizing"
+        },
+        "20": {
+          "value": "80px",
+          "type": "sizing"
         }
       }
     }
