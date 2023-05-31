@@ -1,14 +1,10 @@
 /**
  * Do not edit directly
- * Generated on Thu, 25 May 2023 10:52:06 GMT
+ * Generated on Wed, 31 May 2023 12:36:55 GMT
  */
 
 :root {
-  --semantic-opacity-10: 0.04;
-  --semantic-opacity-20: 0.08;
-  --semantic-opacity-30: 0.12;
-  --semantic-opacity-50: 0.16;
-  --semantic-opacity-100: 0.2;
+  --semantic-opacity-100: 0.16;
   --semantic-opacity-200: 0.24;
   --semantic-opacity-300: 0.3;
   --semantic-opacity-400: 0.4;

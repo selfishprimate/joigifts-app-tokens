@@ -1,13 +1,9 @@
 /**
  * Do not edit directly
- * Generated on Thu, 25 May 2023 10:52:06 GMT
+ * Generated on Wed, 31 May 2023 12:36:55 GMT
  */
 
-export const SemanticOpacity10 = 0.04;
-export const SemanticOpacity20 = 0.08;
-export const SemanticOpacity30 = 0.12;
-export const SemanticOpacity50 = 0.16;
-export const SemanticOpacity100 = 0.2;
+export const SemanticOpacity100 = 0.16;
 export const SemanticOpacity200 = 0.24;
 export const SemanticOpacity300 = 0.3;
 export const SemanticOpacity400 = 0.4;
