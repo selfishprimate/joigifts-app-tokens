@@ -2099,15 +2099,15 @@
             "type": "color"
           },
           "subtle": {
-            "value": "{global.color.neutral.600}",
+            "value": "{global.color.neutral.700}",
             "type": "color"
           },
           "weak": {
-            "value": "{global.color.neutral.400}",
+            "value": "{global.color.neutral.600}",
             "type": "color"
           },
           "weaker": {
-            "value": "{global.color.neutral.300}",
+            "value": "{global.color.neutral.400}",
             "type": "color"
           },
           "disabled": {
