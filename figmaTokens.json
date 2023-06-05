@@ -2578,6 +2578,20 @@
           "value": "80px",
           "type": "sizing"
         }
+      },
+      "borderWidth": {
+        "default": {
+          "value": "1px",
+          "type": "borderWidth"
+        },
+        "medium": {
+          "value": "1.5px",
+          "type": "borderWidth"
+        },
+        "large": {
+          "value": "2px",
+          "type": "borderWidth"
+        }
       }
     }
   },
