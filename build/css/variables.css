@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 06 Jun 2023 09:29:06 GMT
+ * Generated on Tue, 06 Jun 2023 13:45:15 GMT
  */
 
 :root {
@@ -249,7 +249,7 @@
   --semantic-color-foreground-weak: #a6a8a9;
   --semantic-color-foreground-weaker: #d3d3d4;
   --semantic-color-foreground-disabled: #e9e9ea;
-  --semantic-color-foreground-ondisabled: #909294;
+  --semantic-color-foreground-ondisabled: #bcbebf;
   --semantic-color-background-100: #ffffff;
   --semantic-color-background-200: #fcfcfc;
   --semantic-color-background-300: #fafafa;
@@ -274,7 +274,7 @@
   --semantic-color-text-muted: #585b5e;
   --semantic-color-text-subtle: #909294;
   --semantic-color-text-disabled: #a6a8a9;
-  --semantic-color-text-ondisabled: #909294;
+  --semantic-color-text-ondisabled: #bcbebf;
   --semantic-color-text-success: #16a34a;
   --semantic-color-text-info: #2563eb;
   --semantic-color-text-warning: #ea580c;

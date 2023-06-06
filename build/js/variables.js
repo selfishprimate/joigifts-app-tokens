@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 06 Jun 2023 09:29:06 GMT
+ * Generated on Tue, 06 Jun 2023 13:45:15 GMT
  */
 
 export const SemanticOpacity100 = 0.16;
@@ -248,7 +248,7 @@ export const SemanticColorForegroundSubtle = "#909294";
 export const SemanticColorForegroundWeak = "#a6a8a9";
 export const SemanticColorForegroundWeaker = "#d3d3d4";
 export const SemanticColorForegroundDisabled = "#e9e9ea";
-export const SemanticColorForegroundOndisabled = "#909294";
+export const SemanticColorForegroundOndisabled = "#bcbebf";
 export const SemanticColorBackground100 = "#ffffff";
 export const SemanticColorBackground200 = "#fcfcfc";
 export const SemanticColorBackground300 = "#fafafa";
@@ -273,7 +273,7 @@ export const SemanticColorTextOndefault = "#ffffff";
 export const SemanticColorTextMuted = "#585b5e";
 export const SemanticColorTextSubtle = "#909294";
 export const SemanticColorTextDisabled = "#a6a8a9";
-export const SemanticColorTextOndisabled = "#909294";
+export const SemanticColorTextOndisabled = "#bcbebf";
 export const SemanticColorTextSuccess = "#16a34a";
 export const SemanticColorTextInfo = "#2563eb";
 export const SemanticColorTextWarning = "#ea580c";
