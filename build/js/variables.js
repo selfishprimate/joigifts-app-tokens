@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 09 Jun 2023 10:16:34 GMT
+ * Generated on Fri, 09 Jun 2023 11:17:56 GMT
  */
 
 export const SemanticOpacity100 = 0.16;
@@ -94,6 +94,26 @@ export const SemanticTypescaleCaptionDefaultBoldFontWeight = 700;
 export const SemanticTypescaleCaptionDefaultBoldLineHeight = "normal";
 export const SemanticTypescaleCaptionDefaultBoldFontSize = "12px";
 export const SemanticTypescaleCaptionDefaultBoldTextDecoration = "";
+export const SemanticTypescaleCaptionSmallNormalFontFamily = "Inter, sans-serif";
+export const SemanticTypescaleCaptionSmallNormalFontWeight = 400;
+export const SemanticTypescaleCaptionSmallNormalLineHeight = "normal";
+export const SemanticTypescaleCaptionSmallNormalFontSize = "11px";
+export const SemanticTypescaleCaptionSmallNormalTextDecoration = "";
+export const SemanticTypescaleCaptionSmallMediumFontFamily = "Inter, sans-serif";
+export const SemanticTypescaleCaptionSmallMediumFontWeight = 500;
+export const SemanticTypescaleCaptionSmallMediumLineHeight = "normal";
+export const SemanticTypescaleCaptionSmallMediumFontSize = "11px";
+export const SemanticTypescaleCaptionSmallMediumTextDecoration = "";
+export const SemanticTypescaleCaptionSmallSemiBoldFontFamily = "Inter, sans-serif";
+export const SemanticTypescaleCaptionSmallSemiBoldFontWeight = 600;
+export const SemanticTypescaleCaptionSmallSemiBoldLineHeight = "normal";
+export const SemanticTypescaleCaptionSmallSemiBoldFontSize = "11px";
+export const SemanticTypescaleCaptionSmallSemiBoldTextDecoration = "";
+export const SemanticTypescaleCaptionSmallBoldFontFamily = "Inter, sans-serif";
+export const SemanticTypescaleCaptionSmallBoldFontWeight = 700;
+export const SemanticTypescaleCaptionSmallBoldLineHeight = "normal";
+export const SemanticTypescaleCaptionSmallBoldFontSize = "11px";
+export const SemanticTypescaleCaptionSmallBoldTextDecoration = "";
 export const SemanticTypescaleSubtitleLargeLightFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleSubtitleLargeLightFontWeight = 300;
 export const SemanticTypescaleSubtitleLargeLightLineHeight = "140%";
