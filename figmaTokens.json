@@ -1574,6 +1574,48 @@
               },
               "type": "typography"
             }
+          },
+          "small": {
+            "normal": {
+              "value": {
+                "fontFamily": "{semantic.fontFamily.ltr.primary}",
+                "fontWeight": "{global.fontWeight.normal}",
+                "lineHeight": "{global.lineHeight.normal}",
+                "fontSize": "{global.fontSize.majorSecond.2xsmall}",
+                "textDecoration": ""
+              },
+              "type": "typography"
+            },
+            "medium": {
+              "value": {
+                "fontFamily": "{semantic.fontFamily.ltr.primary}",
+                "fontWeight": "{global.fontWeight.medium}",
+                "lineHeight": "{global.lineHeight.normal}",
+                "fontSize": "{global.fontSize.majorSecond.2xsmall}",
+                "textDecoration": ""
+              },
+              "type": "typography"
+            },
+            "semiBold": {
+              "value": {
+                "fontFamily": "{semantic.fontFamily.ltr.primary}",
+                "fontWeight": "{global.fontWeight.semiBold}",
+                "lineHeight": "{global.lineHeight.normal}",
+                "fontSize": "{global.fontSize.majorSecond.2xsmall}",
+                "textDecoration": ""
+              },
+              "type": "typography"
+            },
+            "bold": {
+              "value": {
+                "fontFamily": "{semantic.fontFamily.ltr.primary}",
+                "fontWeight": "{global.fontWeight.bold}",
+                "lineHeight": "{global.lineHeight.normal}",
+                "fontSize": "{global.fontSize.majorSecond.2xsmall}",
+                "textDecoration": ""
+              },
+              "type": "typography"
+            }
           }
         },
         "subtitle": {
