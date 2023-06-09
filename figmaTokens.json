@@ -2270,8 +2270,20 @@
             "value": "{semantic.color.foreground.default}",
             "type": "color"
           },
+          "muted": {
+            "value": "{semantic.color.foreground.muted}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{semantic.color.foreground.subtle}",
+            "type": "color"
+          },
           "disabled": {
             "value": "{semantic.color.foreground.weak}",
+            "type": "color"
+          },
+          "ondisabled": {
+            "value": "{semantic.color.foreground.ondisabled}",
             "type": "color"
           },
           "success": {
