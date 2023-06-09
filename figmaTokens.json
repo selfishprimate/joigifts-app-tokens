@@ -2206,6 +2206,10 @@
             "value": "{semantic.color.foreground.default}",
             "type": "color"
           },
+          "ondefault": {
+            "value": "{semantic.color.foreground.ondefault}",
+            "type": "color"
+          },
           "muted": {
             "value": "{semantic.color.foreground.muted}",
             "type": "color"
@@ -2268,6 +2272,10 @@
         "icon": {
           "default": {
             "value": "{semantic.color.foreground.default}",
+            "type": "color"
+          },
+          "ondefault": {
+            "value": "{semantic.color.foreground.ondefault}",
             "type": "color"
           },
           "muted": {
