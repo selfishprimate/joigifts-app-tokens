@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 13 Jun 2023 10:06:24 GMT
+ * Generated on Tue, 13 Jun 2023 15:51:28 GMT
  */
 
 export const SemanticOpacity100 = 0.16;
@@ -289,6 +289,7 @@ export const SemanticColorBorderStronger = "#a6a8a9";
 export const SemanticColorBorderWeak = "#e9e9ea";
 export const SemanticColorBorderWeaker = "#eff0f0";
 export const SemanticColorBorderActive = "#212529";
+export const SemanticColorBorderOnsurface = "#ffffff";
 export const SemanticColorTextDefault = "#212529";
 export const SemanticColorTextOndefault = "#ffffff";
 export const SemanticColorTextMuted = "#585b5e";
