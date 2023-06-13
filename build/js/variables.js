@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 09 Jun 2023 11:17:56 GMT
+ * Generated on Tue, 13 Jun 2023 10:06:24 GMT
  */
 
 export const SemanticOpacity100 = 0.16;
@@ -200,6 +200,7 @@ export const SemanticLineHeightLarge = "140%";
 export const SemanticRadiiNone = 0;
 export const SemanticRadiiXsmall = "2px";
 export const SemanticRadiiSmall = "4px";
+export const SemanticRadiiInner = "3px";
 export const SemanticRadiiDefault = "6px";
 export const SemanticRadiiMedium = "8px";
 export const SemanticRadiiLarge = "16px";
