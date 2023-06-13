@@ -1867,6 +1867,10 @@
           "value": "4px",
           "type": "borderRadius"
         },
+        "inner": {
+          "value": "3px",
+          "type": "borderRadius"
+        },
         "default": {
           "value": "6px",
           "type": "borderRadius"
