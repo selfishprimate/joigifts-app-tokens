@@ -2245,6 +2245,10 @@
           "active": {
             "value": "{global.color.neutral.950}",
             "type": "color"
+          },
+          "onsurface": {
+            "value": "{global.color.primitives.white}",
+            "type": "color"
           }
         },
         "text": {
