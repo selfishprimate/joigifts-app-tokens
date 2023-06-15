@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 13 Jun 2023 15:51:28 GMT
+ * Generated on Thu, 15 Jun 2023 10:28:46 GMT
  */
 
 export const SemanticOpacity100 = 0.16;
@@ -312,11 +312,20 @@ export const SemanticColorIconMuted = "#585b5e";
 export const SemanticColorIconSubtle = "#909294";
 export const SemanticColorIconDisabled = "#a6a8a9";
 export const SemanticColorIconOndisabled = "#bcbebf";
+export const SemanticColorIconPrimary = "#1d1e20";
+export const SemanticColorIconOnprimary = "#ffffff";
+export const SemanticColorIconSecondary = "#47825d";
+export const SemanticColorIconOnsecondary = "#ffffff";
 export const SemanticColorIconSuccess = "#16a34a";
+export const SemanticColorIconOnsuccess = "#ffffff";
 export const SemanticColorIconInfo = "#2563eb";
+export const SemanticColorIconOninfo = "#ffffff";
 export const SemanticColorIconWarning = "#ea580c";
+export const SemanticColorIconOnwarning = "#ffffff";
 export const SemanticColorIconAttention = "#eab308";
+export const SemanticColorIconOnattention = "#ffffff";
 export const SemanticColorIconDanger = "#dc2626";
+export const SemanticColorIconOndanger = "#ffffff";
 export const SemanticTextCaseNone = "none";
 export const SemanticTextCaseCapitalize = "capitalize";
 export const SemanticTextCaseUppercase = "uppercase";
