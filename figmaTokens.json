@@ -2344,24 +2344,60 @@
             "value": "{semantic.color.foreground.ondisabled}",
             "type": "color"
           },
+          "primary": {
+            "value": "{semantic.color.primary.default}",
+            "type": "color"
+          },
+          "onprimary": {
+            "value": "{semantic.color.primary.ondefault}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{semantic.color.secondary.default}",
+            "type": "color"
+          },
+          "onsecondary": {
+            "value": "{semantic.color.secondary.ondefault}",
+            "type": "color"
+          },
           "success": {
             "value": "{semantic.color.success.default}",
+            "type": "color"
+          },
+          "onsuccess": {
+            "value": "{semantic.color.success.ondefault}",
             "type": "color"
           },
           "info": {
             "value": "{semantic.color.info.default}",
             "type": "color"
           },
+          "oninfo": {
+            "value": "{semantic.color.info.ondefault}",
+            "type": "color"
+          },
           "warning": {
             "value": "{semantic.color.warning.default}",
+            "type": "color"
+          },
+          "onwarning": {
+            "value": "{semantic.color.warning.ondefault}",
             "type": "color"
           },
           "attention": {
             "value": "{semantic.color.attention.default}",
             "type": "color"
           },
+          "onattention": {
+            "value": "{semantic.color.attention.ondefault}",
+            "type": "color"
+          },
           "danger": {
             "value": "{semantic.color.danger.default}",
+            "type": "color"
+          },
+          "ondanger": {
+            "value": "{semantic.color.danger.ondefault}",
             "type": "color"
           }
         }
