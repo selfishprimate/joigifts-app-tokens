@@ -1652,7 +1652,7 @@
               "value": {
                 "fontFamily": "{global.fontFamily.inter}",
                 "fontWeight": "{global.fontWeight.light}",
-                "lineHeight": "{global.lineHeight.percentage.large}",
+                "lineHeight": "roundTo({global.fontSize.majorSecond.medium} * {global.lineHeight.ratio.large})",
                 "fontSize": "{global.fontSize.majorSecond.medium}"
               },
               "type": "typography"
@@ -1661,7 +1661,7 @@
               "value": {
                 "fontFamily": "{global.fontFamily.inter}",
                 "fontWeight": "{global.fontWeight.normal}",
-                "lineHeight": "{global.lineHeight.percentage.large}",
+                "lineHeight": "roundTo({global.fontSize.majorSecond.medium} * {global.lineHeight.ratio.large})",
                 "fontSize": "{global.fontSize.majorSecond.medium}"
               },
               "type": "typography"
@@ -1670,7 +1670,7 @@
               "value": {
                 "fontFamily": "{global.fontFamily.inter}",
                 "fontWeight": "{global.fontWeight.medium}",
-                "lineHeight": "{global.lineHeight.percentage.large}",
+                "lineHeight": "roundTo({global.fontSize.majorSecond.medium} * {global.lineHeight.ratio.large})",
                 "fontSize": "{global.fontSize.majorSecond.medium}"
               },
               "type": "typography"
@@ -1681,7 +1681,7 @@
               "value": {
                 "fontFamily": "{global.fontFamily.inter}",
                 "fontWeight": "{global.fontWeight.light}",
-                "lineHeight": "{global.lineHeight.percentage.large}",
+                "lineHeight": "roundTo({global.fontSize.majorSecond.default} * {global.lineHeight.ratio.large})",
                 "fontSize": "{global.fontSize.majorSecond.default}"
               },
               "type": "typography"
@@ -1690,7 +1690,7 @@
               "value": {
                 "fontFamily": "{global.fontFamily.inter}",
                 "fontWeight": "{global.fontWeight.normal}",
-                "lineHeight": "{global.lineHeight.percentage.large}",
+                "lineHeight": "roundTo({global.fontSize.majorSecond.default} * {global.lineHeight.ratio.large})",
                 "fontSize": "{global.fontSize.majorSecond.default}"
               },
               "type": "typography"
@@ -1699,7 +1699,7 @@
               "value": {
                 "fontFamily": "{global.fontFamily.inter}",
                 "fontWeight": "{global.fontWeight.medium}",
-                "lineHeight": "{global.lineHeight.percentage.large}",
+                "lineHeight": "roundTo({global.fontSize.majorSecond.default} * {global.lineHeight.ratio.large})",
                 "fontSize": "{global.fontSize.majorSecond.default}"
               },
               "type": "typography"
@@ -1710,7 +1710,7 @@
               "value": {
                 "fontFamily": "{global.fontFamily.inter}",
                 "fontWeight": "{global.fontWeight.light}",
-                "lineHeight": "{global.lineHeight.percentage.large}",
+                "lineHeight": "roundTo({global.fontSize.majorSecond.small} * {global.lineHeight.ratio.large})",
                 "fontSize": "{global.fontSize.majorSecond.small}"
               },
               "type": "typography"
@@ -1719,7 +1719,7 @@
               "value": {
                 "fontFamily": "{global.fontFamily.inter}",
                 "fontWeight": "{global.fontWeight.normal}",
-                "lineHeight": "{global.lineHeight.percentage.large}",
+                "lineHeight": "roundTo({global.fontSize.majorSecond.small} * {global.lineHeight.ratio.large})",
                 "fontSize": "{global.fontSize.majorSecond.small}"
               },
               "type": "typography"
@@ -1728,7 +1728,7 @@
               "value": {
                 "fontFamily": "{global.fontFamily.inter}",
                 "fontWeight": "{global.fontWeight.medium}",
-                "lineHeight": "{global.lineHeight.percentage.large}",
+                "lineHeight": "roundTo({global.fontSize.majorSecond.small} * {global.lineHeight.ratio.large})",
                 "fontSize": "{global.fontSize.majorSecond.small}"
               },
               "type": "typography"
