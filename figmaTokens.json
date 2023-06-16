@@ -1432,7 +1432,7 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.ltr.primary}",
               "fontWeight": "{global.fontWeight.bold}",
-              "lineHeight": "{global.lineHeight.percentage.default}",
+              "lineHeight": "roundTo({global.fontSize.majorSecond.3xlarge} * {global.lineHeight.ratio.default})",
               "fontSize": "{global.fontSize.majorSecond.3xlarge}"
             },
             "type": "typography"
@@ -1441,7 +1441,7 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.ltr.primary}",
               "fontWeight": "{global.fontWeight.bold}",
-              "lineHeight": "{global.lineHeight.percentage.default}",
+              "lineHeight": "roundTo({global.fontSize.majorSecond.2xlarge} * {global.lineHeight.ratio.default})",
               "fontSize": "{global.fontSize.majorSecond.2xlarge}"
             },
             "type": "typography"
@@ -1450,7 +1450,7 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.ltr.primary}",
               "fontWeight": "{global.fontWeight.bold}",
-              "lineHeight": "{global.lineHeight.percentage.default}",
+              "lineHeight": "roundTo({global.fontSize.majorSecond.xlarge} * {global.lineHeight.ratio.default})",
               "fontSize": "{global.fontSize.majorSecond.xlarge}"
             },
             "type": "typography"
@@ -1459,7 +1459,7 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.ltr.primary}",
               "fontWeight": "{global.fontWeight.semiBold}",
-              "lineHeight": "{global.lineHeight.percentage.default}",
+              "lineHeight": "roundTo({global.fontSize.majorSecond.large} * {global.lineHeight.ratio.default})",
               "fontSize": "{global.fontSize.majorSecond.large}"
             },
             "type": "typography"
@@ -1468,7 +1468,7 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.ltr.primary}",
               "fontWeight": "{global.fontWeight.semiBold}",
-              "lineHeight": "{global.lineHeight.percentage.default}",
+              "lineHeight": "roundTo({global.fontSize.majorSecond.medium} * {global.lineHeight.ratio.default})",
               "fontSize": "{global.fontSize.majorSecond.medium}"
             },
             "type": "typography"
