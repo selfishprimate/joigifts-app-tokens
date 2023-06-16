@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 16 Jun 2023 09:29:47 GMT
+ * Generated on Fri, 16 Jun 2023 09:47:49 GMT
  */
 
 export const SemanticOpacity100 = 0.16;
@@ -36,42 +36,42 @@ export const SemanticTypescaleTitleSmallLineHeight = 22;
 export const SemanticTypescaleTitleSmallFontSize = 18;
 export const SemanticTypescaleBodyDefaultNormalFontFamily = "Inter";
 export const SemanticTypescaleBodyDefaultNormalFontWeight = 400;
-export const SemanticTypescaleBodyDefaultNormalLineHeight = "130%";
+export const SemanticTypescaleBodyDefaultNormalLineHeight = 21;
 export const SemanticTypescaleBodyDefaultNormalFontSize = 16;
 export const SemanticTypescaleBodyDefaultNormalTextDecoration = "";
 export const SemanticTypescaleBodyDefaultMediumFontFamily = "Inter";
 export const SemanticTypescaleBodyDefaultMediumFontWeight = 500;
-export const SemanticTypescaleBodyDefaultMediumLineHeight = "130%";
+export const SemanticTypescaleBodyDefaultMediumLineHeight = 21;
 export const SemanticTypescaleBodyDefaultMediumFontSize = 16;
 export const SemanticTypescaleBodyDefaultMediumTextDecoration = "";
 export const SemanticTypescaleBodyDefaultSemiBoldFontFamily = "Inter";
 export const SemanticTypescaleBodyDefaultSemiBoldFontWeight = 600;
-export const SemanticTypescaleBodyDefaultSemiBoldLineHeight = "130%";
+export const SemanticTypescaleBodyDefaultSemiBoldLineHeight = 21;
 export const SemanticTypescaleBodyDefaultSemiBoldFontSize = 16;
 export const SemanticTypescaleBodyDefaultSemiBoldTextDecoration = "";
 export const SemanticTypescaleBodyDefaultBoldFontFamily = "Inter";
 export const SemanticTypescaleBodyDefaultBoldFontWeight = 700;
-export const SemanticTypescaleBodyDefaultBoldLineHeight = "130%";
+export const SemanticTypescaleBodyDefaultBoldLineHeight = 21;
 export const SemanticTypescaleBodyDefaultBoldFontSize = 16;
 export const SemanticTypescaleBodyDefaultBoldTextDecoration = "";
 export const SemanticTypescaleBodySmallNormalFontFamily = "Inter";
 export const SemanticTypescaleBodySmallNormalFontWeight = 400;
-export const SemanticTypescaleBodySmallNormalLineHeight = "130%";
+export const SemanticTypescaleBodySmallNormalLineHeight = 18;
 export const SemanticTypescaleBodySmallNormalFontSize = 14;
 export const SemanticTypescaleBodySmallNormalTextDecoration = "";
 export const SemanticTypescaleBodySmallMediumFontFamily = "Inter";
 export const SemanticTypescaleBodySmallMediumFontWeight = 500;
-export const SemanticTypescaleBodySmallMediumLineHeight = "130%";
+export const SemanticTypescaleBodySmallMediumLineHeight = 18;
 export const SemanticTypescaleBodySmallMediumFontSize = 14;
 export const SemanticTypescaleBodySmallMediumTextDecoration = "";
 export const SemanticTypescaleBodySmallSemiBoldFontFamily = "Inter";
 export const SemanticTypescaleBodySmallSemiBoldFontWeight = 600;
-export const SemanticTypescaleBodySmallSemiBoldLineHeight = "140%";
+export const SemanticTypescaleBodySmallSemiBoldLineHeight = 18;
 export const SemanticTypescaleBodySmallSemiBoldFontSize = 14;
 export const SemanticTypescaleBodySmallSemiBoldTextDecoration = "";
 export const SemanticTypescaleBodySmallBoldFontFamily = "Inter";
 export const SemanticTypescaleBodySmallBoldFontWeight = 700;
-export const SemanticTypescaleBodySmallBoldLineHeight = "130%";
+export const SemanticTypescaleBodySmallBoldLineHeight = 18;
 export const SemanticTypescaleBodySmallBoldFontSize = 14;
 export const SemanticTypescaleBodySmallBoldTextDecoration = "";
 export const SemanticTypescaleCaptionDefaultNormalFontFamily = "Inter";
