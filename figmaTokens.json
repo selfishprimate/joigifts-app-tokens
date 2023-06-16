@@ -2281,7 +2281,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{global.color.neutral.950}",
+            "value": "{semantic.color.foreground.default}",
             "type": "color"
           },
           "onsurface": {
