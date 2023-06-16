@@ -44,7 +44,7 @@
       "fontSize": {
         "majorSecond": {
           "base": {
-            "value": "16px",
+            "value": "16",
             "type": "fontSizes"
           },
           "scale": {
@@ -209,23 +209,23 @@
             "type": "sizing"
           },
           "small": {
-            "value": "576px",
+            "value": "576",
             "type": "sizing"
           },
           "medium": {
-            "value": "768px",
+            "value": "768",
             "type": "sizing"
           },
           "large": {
-            "value": "992px",
+            "value": "992",
             "type": "sizing"
           },
           "xlarge": {
-            "value": "1200px",
+            "value": "1200",
             "type": "sizing"
           },
           "xxlarge": {
-            "value": "1400px",
+            "value": "1400",
             "type": "sizing"
           }
         },
@@ -235,23 +235,23 @@
             "type": "sizing"
           },
           "small": {
-            "value": "640px",
+            "value": "640",
             "type": "sizing"
           },
           "medium": {
-            "value": "768px",
+            "value": "768",
             "type": "sizing"
           },
           "large": {
-            "value": "1024px",
+            "value": "1024",
             "type": "sizing"
           },
           "xlarge": {
-            "value": "1280px",
+            "value": "1280",
             "type": "sizing"
           },
           "xxlarge": {
-            "value": "1536px",
+            "value": "1536",
             "type": "sizing"
           }
         }
@@ -1898,35 +1898,35 @@
           "type": "borderRadius"
         },
         "xsmall": {
-          "value": "2px",
+          "value": "2",
           "type": "borderRadius"
         },
         "small": {
-          "value": "4px",
+          "value": "4",
           "type": "borderRadius"
         },
         "inner": {
-          "value": "3px",
+          "value": "3",
           "type": "borderRadius"
         },
         "default": {
-          "value": "6px",
+          "value": "6",
           "type": "borderRadius"
         },
         "medium": {
-          "value": "8px",
+          "value": "8",
           "type": "borderRadius"
         },
         "large": {
-          "value": "16px",
+          "value": "16",
           "type": "borderRadius"
         },
         "xlarge": {
-          "value": "32px",
+          "value": "32",
           "type": "borderRadius"
         },
         "xxlarge": {
-          "value": "64px",
+          "value": "64",
           "type": "borderRadius"
         }
       },
@@ -2478,91 +2478,91 @@
           "type": "spacing"
         },
         "1": {
-          "value": "4px",
+          "value": "4",
           "type": "spacing"
         },
         "2": {
-          "value": "8px",
+          "value": "8",
           "type": "spacing"
         },
         "3": {
-          "value": "12px",
+          "value": "12",
           "type": "spacing"
         },
         "4": {
-          "value": "16px",
+          "value": "16",
           "type": "spacing"
         },
         "5": {
-          "value": "20px",
+          "value": "20",
           "type": "spacing"
         },
         "6": {
-          "value": "24px",
+          "value": "24",
           "type": "spacing"
         },
         "7": {
-          "value": "28px",
+          "value": "28",
           "type": "spacing"
         },
         "8": {
-          "value": "32px",
+          "value": "32",
           "type": "spacing"
         },
         "9": {
-          "value": "36px",
+          "value": "36",
           "type": "spacing"
         },
         "10": {
-          "value": "40px",
+          "value": "40",
           "type": "spacing"
         },
         "12": {
-          "value": "48px",
+          "value": "48",
           "type": "spacing"
         },
         "14": {
-          "value": "56px",
+          "value": "56",
           "type": "spacing"
         },
         "16": {
-          "value": "64px",
+          "value": "64",
           "type": "spacing"
         },
         "20": {
-          "value": "80px",
+          "value": "80",
           "type": "spacing"
         },
         "24": {
-          "value": "96px",
+          "value": "96",
           "type": "spacing"
         },
         "28": {
-          "value": "112px",
+          "value": "112",
           "type": "spacing"
         },
         "32": {
-          "value": "128px",
+          "value": "128",
           "type": "spacing"
         },
         "40": {
-          "value": "160px",
+          "value": "160",
           "type": "spacing"
         },
         "48": {
-          "value": "192px",
+          "value": "192",
           "type": "spacing"
         },
         "56": {
-          "value": "224px",
+          "value": "224",
           "type": "spacing"
         },
         "025": {
-          "value": "1px",
+          "value": "1",
           "type": "spacing"
         },
         "05": {
-          "value": "2px",
+          "value": "2",
           "type": "spacing"
         }
       },
@@ -2691,97 +2691,97 @@
           "type": "sizing"
         },
         "1": {
-          "value": "4px",
+          "value": "4",
           "type": "sizing"
         },
         "2": {
-          "value": "8px",
+          "value": "8",
           "type": "sizing"
         },
         "3": {
-          "value": "12px",
+          "value": "12",
           "type": "sizing"
         },
         "4": {
-          "value": "16px",
+          "value": "16",
           "type": "sizing"
         },
         "5": {
-          "value": "20px",
+          "value": "20",
           "type": "sizing"
         },
         "6": {
-          "value": "24px",
+          "value": "24",
           "type": "sizing"
         },
         "7": {
-          "value": "28px",
+          "value": "28",
           "type": "sizing"
         },
         "8": {
-          "value": "32px",
+          "value": "32",
           "type": "sizing"
         },
         "9": {
-          "value": "36px",
+          "value": "36",
           "type": "sizing"
         },
         "10": {
-          "value": "40px",
+          "value": "40",
           "type": "sizing"
         },
         "11": {
-          "value": "44px",
+          "value": "44",
           "type": "sizing"
         },
         "12": {
-          "value": "48px",
+          "value": "48",
           "type": "sizing"
         },
         "13": {
-          "value": "52px",
+          "value": "52",
           "type": "sizing"
         },
         "14": {
-          "value": "56px",
+          "value": "56",
           "type": "sizing"
         },
         "15": {
-          "value": "60px",
+          "value": "60",
           "type": "sizing"
         },
         "16": {
-          "value": "64px",
+          "value": "64",
           "type": "sizing"
         },
         "17": {
-          "value": "68px",
+          "value": "68",
           "type": "sizing"
         },
         "18": {
-          "value": "72px",
+          "value": "72",
           "type": "sizing"
         },
         "19": {
-          "value": "76px",
+          "value": "76",
           "type": "sizing"
         },
         "20": {
-          "value": "80px",
+          "value": "80",
           "type": "sizing"
         }
       },
       "borderWidth": {
         "default": {
-          "value": "1px",
+          "value": "1",
           "type": "borderWidth"
         },
         "medium": {
-          "value": "1.5px",
+          "value": "1.5",
           "type": "borderWidth"
         },
         "large": {
-          "value": "2px",
+          "value": "2",
           "type": "borderWidth"
         }
       }
