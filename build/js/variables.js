@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 16 Jun 2023 10:06:10 GMT
+ * Generated on Fri, 16 Jun 2023 10:09:43 GMT
  */
 
 export const SemanticOpacity100 = 0.16;
@@ -168,19 +168,19 @@ export const SemanticTypescaleButtonXsmallLineHeight = 14;
 export const SemanticTypescaleButtonXsmallFontSize = 12;
 export const SemanticTypescaleBadgeNormalFontFamily = "Inter";
 export const SemanticTypescaleBadgeNormalFontWeight = 400;
-export const SemanticTypescaleBadgeNormalLineHeight = "normal";
+export const SemanticTypescaleBadgeNormalLineHeight = 12;
 export const SemanticTypescaleBadgeNormalFontSize = 10;
 export const SemanticTypescaleBadgeMediumFontFamily = "Inter";
 export const SemanticTypescaleBadgeMediumFontWeight = 500;
-export const SemanticTypescaleBadgeMediumLineHeight = "normal";
+export const SemanticTypescaleBadgeMediumLineHeight = 12;
 export const SemanticTypescaleBadgeMediumFontSize = 10;
 export const SemanticTypescaleBadgeSemiBoldFontFamily = "Inter";
 export const SemanticTypescaleBadgeSemiBoldFontWeight = 600;
-export const SemanticTypescaleBadgeSemiBoldLineHeight = "normal";
+export const SemanticTypescaleBadgeSemiBoldLineHeight = 12;
 export const SemanticTypescaleBadgeSemiBoldFontSize = 10;
 export const SemanticTypescaleBadgeBoldFontFamily = "Inter";
 export const SemanticTypescaleBadgeBoldFontWeight = 700;
-export const SemanticTypescaleBadgeBoldLineHeight = "normal";
+export const SemanticTypescaleBadgeBoldLineHeight = 12;
 export const SemanticTypescaleBadgeBoldFontSize = 10;
 export const SemanticTypescaleDefaultFontFamily = "Inter";
 export const SemanticTypescaleDefaultFontWeight = 400;
