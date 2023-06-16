@@ -52,94 +52,94 @@
             "type": "fontSizes"
           },
           "3xsmall": {
-            "value": "10px",
+            "value": "10",
             "type": "fontSizes"
           },
           "2xsmall": {
-            "value": "11px",
+            "value": "11",
             "type": "fontSizes"
           },
           "xsmall": {
-            "value": "12px",
+            "value": "12",
             "type": "fontSizes"
           },
           "small": {
-            "value": "14px",
+            "value": "14",
             "type": "fontSizes"
           },
           "default": {
-            "value": "16px",
+            "value": "16",
             "type": "fontSizes"
           },
           "medium": {
-            "value": "18px",
+            "value": "18",
             "type": "fontSizes"
           },
           "large": {
-            "value": "20px",
+            "value": "20",
             "type": "fontSizes"
           },
           "xlarge": {
-            "value": "23px",
+            "value": "23",
             "type": "fontSizes"
           },
           "2xlarge": {
-            "value": "26px",
+            "value": "26",
             "type": "fontSizes"
           },
           "3xlarge": {
-            "value": "29px",
+            "value": "29",
             "type": "fontSizes"
           },
           "4xlarge": {
-            "value": "33px",
+            "value": "33",
             "type": "fontSizes"
           },
           "5xlarge": {
-            "value": "37px",
+            "value": "37",
             "type": "fontSizes"
           },
           "6xlarge": {
-            "value": "42px",
+            "value": "42",
             "type": "fontSizes"
           },
           "7xlarge": {
-            "value": "47px",
+            "value": "47",
             "type": "fontSizes"
           },
           "8xlarge": {
-            "value": "53px",
+            "value": "53",
             "type": "fontSizes"
           },
           "9xlarge": {
-            "value": "60px",
+            "value": "60",
             "type": "fontSizes"
           },
           "10xlarge": {
-            "value": "68px",
+            "value": "68",
             "type": "fontSizes"
           }
         }
       },
       "fontFamily": {
         "montserrat": {
-          "value": "Montserrat, sans-serif",
+          "value": "Montserrat",
           "type": "fontFamilies"
         },
         "tajawal": {
-          "value": "Tajawal, sans-serif",
+          "value": "Tajawal",
           "type": "fontFamilies"
         },
         "inter": {
-          "value": "Inter, sans-serif",
+          "value": "Inter",
           "type": "fontFamilies"
         },
         "roboto": {
-          "value": "Roboto, sans-serif",
+          "value": "Roboto",
           "type": "fontFamilies"
         },
         "robotoMono": {
-          "value": "Roboto Mono, monospace",
+          "value": "Roboto Mono",
           "type": "fontFamilies"
         }
       },
