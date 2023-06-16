@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 16 Jun 2023 10:01:48 GMT
+ * Generated on Fri, 16 Jun 2023 10:06:10 GMT
  */
 
 :root {
@@ -153,19 +153,19 @@
   --semantic-typescale-subtitle-small-medium-font-size: 14;
   --semantic-typescale-button-large-font-family: Inter;
   --semantic-typescale-button-large-font-weight: 500;
-  --semantic-typescale-button-large-line-height: normal;
+  --semantic-typescale-button-large-line-height: 22;
   --semantic-typescale-button-large-font-size: 18;
   --semantic-typescale-button-default-font-family: Inter;
   --semantic-typescale-button-default-font-weight: 500;
-  --semantic-typescale-button-default-line-height: normal;
+  --semantic-typescale-button-default-line-height: 19;
   --semantic-typescale-button-default-font-size: 16;
   --semantic-typescale-button-small-font-family: Inter;
   --semantic-typescale-button-small-font-weight: 500;
-  --semantic-typescale-button-small-line-height: normal;
+  --semantic-typescale-button-small-line-height: 17;
   --semantic-typescale-button-small-font-size: 14;
   --semantic-typescale-button-xsmall-font-family: Inter;
   --semantic-typescale-button-xsmall-font-weight: 500;
-  --semantic-typescale-button-xsmall-line-height: normal;
+  --semantic-typescale-button-xsmall-line-height: 14;
   --semantic-typescale-button-xsmall-font-size: 12;
   --semantic-typescale-badge-normal-font-family: Inter;
   --semantic-typescale-badge-normal-font-weight: 400;
@@ -185,7 +185,7 @@
   --semantic-typescale-badge-bold-font-size: 10;
   --semantic-typescale-default-font-family: Inter;
   --semantic-typescale-default-font-weight: 400;
-  --semantic-typescale-default-line-height: 130%;
+  --semantic-typescale-default-line-height: 21;
   --semantic-typescale-default-font-size: 16;
   --semantic-typescale-default-text-decoration: ;
   --semantic-font-family-ltr-primary: Inter;

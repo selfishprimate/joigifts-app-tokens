@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 16 Jun 2023 10:01:48 GMT
+ * Generated on Fri, 16 Jun 2023 10:06:10 GMT
  */
 
 export const SemanticOpacity100 = 0.16;
@@ -152,19 +152,19 @@ export const SemanticTypescaleSubtitleSmallMediumLineHeight = 20;
 export const SemanticTypescaleSubtitleSmallMediumFontSize = 14;
 export const SemanticTypescaleButtonLargeFontFamily = "Inter";
 export const SemanticTypescaleButtonLargeFontWeight = 500;
-export const SemanticTypescaleButtonLargeLineHeight = "normal";
+export const SemanticTypescaleButtonLargeLineHeight = 22;
 export const SemanticTypescaleButtonLargeFontSize = 18;
 export const SemanticTypescaleButtonDefaultFontFamily = "Inter";
 export const SemanticTypescaleButtonDefaultFontWeight = 500;
-export const SemanticTypescaleButtonDefaultLineHeight = "normal";
+export const SemanticTypescaleButtonDefaultLineHeight = 19;
 export const SemanticTypescaleButtonDefaultFontSize = 16;
 export const SemanticTypescaleButtonSmallFontFamily = "Inter";
 export const SemanticTypescaleButtonSmallFontWeight = 500;
-export const SemanticTypescaleButtonSmallLineHeight = "normal";
+export const SemanticTypescaleButtonSmallLineHeight = 17;
 export const SemanticTypescaleButtonSmallFontSize = 14;
 export const SemanticTypescaleButtonXsmallFontFamily = "Inter";
 export const SemanticTypescaleButtonXsmallFontWeight = 500;
-export const SemanticTypescaleButtonXsmallLineHeight = "normal";
+export const SemanticTypescaleButtonXsmallLineHeight = 14;
 export const SemanticTypescaleButtonXsmallFontSize = 12;
 export const SemanticTypescaleBadgeNormalFontFamily = "Inter";
 export const SemanticTypescaleBadgeNormalFontWeight = 400;
@@ -184,7 +184,7 @@ export const SemanticTypescaleBadgeBoldLineHeight = "normal";
 export const SemanticTypescaleBadgeBoldFontSize = 10;
 export const SemanticTypescaleDefaultFontFamily = "Inter";
 export const SemanticTypescaleDefaultFontWeight = 400;
-export const SemanticTypescaleDefaultLineHeight = "130%";
+export const SemanticTypescaleDefaultLineHeight = 21;
 export const SemanticTypescaleDefaultFontSize = 16;
 export const SemanticTypescaleDefaultTextDecoration = "";
 export const SemanticFontFamilyLtrPrimary = "Inter";
