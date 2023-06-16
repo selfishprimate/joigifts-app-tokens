@@ -1740,7 +1740,7 @@
             "value": {
               "fontFamily": "{global.fontFamily.inter}",
               "fontWeight": "{global.fontWeight.medium}",
-              "lineHeight": "{global.lineHeight.percentage.normal}",
+              "lineHeight": "roundTo({global.fontSize.majorSecond.medium} * {global.lineHeight.ratio.default})",
               "fontSize": "{global.fontSize.majorSecond.medium}"
             },
             "type": "typography"
@@ -1749,7 +1749,7 @@
             "value": {
               "fontFamily": "{global.fontFamily.inter}",
               "fontWeight": "{global.fontWeight.medium}",
-              "lineHeight": "{global.lineHeight.percentage.normal}",
+              "lineHeight": "roundTo({global.fontSize.majorSecond.default} * {global.lineHeight.ratio.default})",
               "fontSize": "{global.fontSize.majorSecond.default}"
             },
             "type": "typography"
@@ -1758,7 +1758,7 @@
             "value": {
               "fontFamily": "{global.fontFamily.inter}",
               "fontWeight": "{global.fontWeight.medium}",
-              "lineHeight": "{global.lineHeight.percentage.normal}",
+              "lineHeight": "roundTo({global.fontSize.majorSecond.small} * {global.lineHeight.ratio.default})",
               "fontSize": "{global.fontSize.majorSecond.small}"
             },
             "type": "typography"
@@ -1767,7 +1767,7 @@
             "value": {
               "fontFamily": "{global.fontFamily.inter}",
               "fontWeight": "{global.fontWeight.medium}",
-              "lineHeight": "{global.lineHeight.percentage.normal}",
+              "lineHeight": "roundTo({global.fontSize.majorSecond.xsmall} * {global.lineHeight.ratio.default})",
               "fontSize": "{global.fontSize.majorSecond.xsmall}"
             },
             "type": "typography"
@@ -1815,7 +1815,7 @@
           "value": {
             "fontFamily": "{semantic.fontFamily.ltr.primary}",
             "fontWeight": "{global.fontWeight.normal}",
-            "lineHeight": "{global.lineHeight.percentage.medium}",
+            "lineHeight": "roundTo({global.fontSize.majorSecond.default} * {global.lineHeight.ratio.medium})",
             "fontSize": "{global.fontSize.majorSecond.default}",
             "textDecoration": ""
           },
