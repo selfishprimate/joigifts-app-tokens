@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 15 Jun 2023 11:20:53 GMT
+ * Generated on Fri, 16 Jun 2023 07:47:33 GMT
  */
 
 export const SemanticOpacity100 = 0.16;
@@ -425,13 +425,19 @@ export const GlobalFontFamilyTajawal = "Tajawal, sans-serif";
 export const GlobalFontFamilyInter = "Inter, sans-serif";
 export const GlobalFontFamilyRoboto = "Roboto, sans-serif";
 export const GlobalFontFamilyRobotoMono = "Roboto Mono, monospace";
-export const GlobalLineHeightSmall = "110%";
-export const GlobalLineHeightDefault = "120%";
-export const GlobalLineHeightMedium = "130%";
-export const GlobalLineHeightLarge = "140%";
-export const GlobalLineHeightXlarge = "150%";
-export const GlobalLineHeightXxlarge = "175%";
-export const GlobalLineHeightNormal = "normal";
+export const GlobalLineHeightPercentageSmall = "110%";
+export const GlobalLineHeightPercentageDefault = "120%";
+export const GlobalLineHeightPercentageMedium = "130%";
+export const GlobalLineHeightPercentageLarge = "140%";
+export const GlobalLineHeightPercentageXlarge = "150%";
+export const GlobalLineHeightPercentageXxlarge = "175%";
+export const GlobalLineHeightPercentageNormal = "normal";
+export const GlobalLineHeightRatioSmall = 1.1;
+export const GlobalLineHeightRatioDefault = 1.2;
+export const GlobalLineHeightRatioMedium = 1.3;
+export const GlobalLineHeightRatioLarge = 1.4;
+export const GlobalLineHeightRatioXlarge = 1.5;
+export const GlobalLineHeightRatioXxlarge = 1.75;
 export const GlobalBreakpointsBootstrapNone = 0;
 export const GlobalBreakpointsBootstrapSmall = "576px";
 export const GlobalBreakpointsBootstrapMedium = "768px";

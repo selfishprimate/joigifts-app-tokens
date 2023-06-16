@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 15 Jun 2023 11:20:53 GMT
+ * Generated on Fri, 16 Jun 2023 07:47:33 GMT
  */
 
 :root {
@@ -426,13 +426,19 @@
   --global-font-family-inter: Inter, sans-serif;
   --global-font-family-roboto: Roboto, sans-serif;
   --global-font-family-roboto-mono: Roboto Mono, monospace;
-  --global-line-height-small: 110%;
-  --global-line-height-default: 120%;
-  --global-line-height-medium: 130%;
-  --global-line-height-large: 140%;
-  --global-line-height-xlarge: 150%;
-  --global-line-height-xxlarge: 175%;
-  --global-line-height-normal: normal;
+  --global-line-height-percentage-small: 110%;
+  --global-line-height-percentage-default: 120%;
+  --global-line-height-percentage-medium: 130%;
+  --global-line-height-percentage-large: 140%;
+  --global-line-height-percentage-xlarge: 150%;
+  --global-line-height-percentage-xxlarge: 175%;
+  --global-line-height-percentage-normal: normal;
+  --global-line-height-ratio-small: 1.1;
+  --global-line-height-ratio-default: 1.2;
+  --global-line-height-ratio-medium: 1.3;
+  --global-line-height-ratio-large: 1.4;
+  --global-line-height-ratio-xlarge: 1.5;
+  --global-line-height-ratio-xxlarge: 1.75;
   --global-breakpoints-bootstrap-none: 0;
   --global-breakpoints-bootstrap-small: 576px;
   --global-breakpoints-bootstrap-medium: 768px;
