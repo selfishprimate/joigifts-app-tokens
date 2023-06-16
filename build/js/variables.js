@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 16 Jun 2023 09:21:52 GMT
+ * Generated on Fri, 16 Jun 2023 09:29:47 GMT
  */
 
 export const SemanticOpacity100 = 0.16;
@@ -16,23 +16,23 @@ export const SemanticOpacityNone = 0;
 export const SemanticOpacityOpaque = 1;
 export const SemanticTypescaleTitleXlargeFontFamily = "Inter";
 export const SemanticTypescaleTitleXlargeFontWeight = 700;
-export const SemanticTypescaleTitleXlargeLineHeight = "120%";
+export const SemanticTypescaleTitleXlargeLineHeight = 35;
 export const SemanticTypescaleTitleXlargeFontSize = 29;
 export const SemanticTypescaleTitleLargeFontFamily = "Inter";
 export const SemanticTypescaleTitleLargeFontWeight = 700;
-export const SemanticTypescaleTitleLargeLineHeight = "120%";
+export const SemanticTypescaleTitleLargeLineHeight = 31;
 export const SemanticTypescaleTitleLargeFontSize = 26;
 export const SemanticTypescaleTitleMediumFontFamily = "Inter";
 export const SemanticTypescaleTitleMediumFontWeight = 700;
-export const SemanticTypescaleTitleMediumLineHeight = "120%";
+export const SemanticTypescaleTitleMediumLineHeight = 28;
 export const SemanticTypescaleTitleMediumFontSize = 23;
 export const SemanticTypescaleTitleDefaultFontFamily = "Inter";
 export const SemanticTypescaleTitleDefaultFontWeight = 600;
-export const SemanticTypescaleTitleDefaultLineHeight = "120%";
+export const SemanticTypescaleTitleDefaultLineHeight = 24;
 export const SemanticTypescaleTitleDefaultFontSize = 20;
 export const SemanticTypescaleTitleSmallFontFamily = "Inter";
 export const SemanticTypescaleTitleSmallFontWeight = 600;
-export const SemanticTypescaleTitleSmallLineHeight = "120%";
+export const SemanticTypescaleTitleSmallLineHeight = 22;
 export const SemanticTypescaleTitleSmallFontSize = 18;
 export const SemanticTypescaleBodyDefaultNormalFontFamily = "Inter";
 export const SemanticTypescaleBodyDefaultNormalFontWeight = 400;
