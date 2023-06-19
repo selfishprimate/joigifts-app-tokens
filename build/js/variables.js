@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 19 Jun 2023 11:41:06 GMT
+ * Generated on Mon, 19 Jun 2023 11:59:01 GMT
  */
 
 export const SemanticOpacity100 = 0.16;
@@ -227,6 +227,14 @@ export const SemanticColorSecondaryMuted = "#96bfa3";
 export const SemanticColorSecondarySubtle = "#c0dac6";
 export const SemanticColorSecondaryWeak = "#deede1";
 export const SemanticColorSecondaryWeaker = "#f2f7f4";
+export const SemanticColorNeutralDefault = "#212529";
+export const SemanticColorNeutralOndefault = "#ffffff";
+export const SemanticColorNeutralStrong = "#373b3e";
+export const SemanticColorNeutralEmphasis = "#585b5e";
+export const SemanticColorNeutralMuted = "#e9e9ea";
+export const SemanticColorNeutralSubtle = "#eff0f0";
+export const SemanticColorNeutralWeak = "#f4f4f4";
+export const SemanticColorNeutralWeaker = "#fbfbfb";
 export const SemanticColorSuccessDefault = "#16a34a";
 export const SemanticColorSuccessOndefault = "#ffffff";
 export const SemanticColorSuccessStrong = "#14532d";
@@ -295,6 +303,11 @@ export const SemanticColorBorderWeak = "#e9e9ea";
 export const SemanticColorBorderWeaker = "#eff0f0";
 export const SemanticColorBorderActive = "#212529";
 export const SemanticColorBorderOnsurface = "#ffffff";
+export const SemanticColorAccentDefault = "#1d1e20";
+export const SemanticColorAccentOndefault = "#ffffff";
+export const SemanticColorAccentStrong = "#3f4246";
+export const SemanticColorAccentEmphasis = "#4d4f54";
+export const SemanticColorAccentMuted = "#a0a3a8";
 export const SemanticColorTextDefault = "#212529";
 export const SemanticColorTextOndefault = "#ffffff";
 export const SemanticColorTextMuted = "#585b5e";
@@ -317,11 +330,6 @@ export const SemanticColorTextDanger = "#dc2626";
 export const SemanticColorTextOndanger = "#ffffff";
 export const SemanticColorTextNeutral = "#212529";
 export const SemanticColorTextOnneutral = "#ffffff";
-export const SemanticColorAccentDefault = "#1d1e20";
-export const SemanticColorAccentOndefault = "#ffffff";
-export const SemanticColorAccentStrong = "#3f4246";
-export const SemanticColorAccentEmphasis = "#4d4f54";
-export const SemanticColorAccentMuted = "#a0a3a8";
 export const SemanticColorIconDefault = "#212529";
 export const SemanticColorIconOndefault = "#ffffff";
 export const SemanticColorIconMuted = "#585b5e";
@@ -344,14 +352,6 @@ export const SemanticColorIconDanger = "#dc2626";
 export const SemanticColorIconOndanger = "#ffffff";
 export const SemanticColorIconNeutral = "#212529";
 export const SemanticColorIconOnneutral = "#ffffff";
-export const SemanticColorNeutralDefault = "#212529";
-export const SemanticColorNeutralOndefault = "#ffffff";
-export const SemanticColorNeutralStrong = "#373b3e";
-export const SemanticColorNeutralEmphasis = "#585b5e";
-export const SemanticColorNeutralMuted = "#e9e9ea";
-export const SemanticColorNeutralSubtle = "#eff0f0";
-export const SemanticColorNeutralWeak = "#f4f4f4";
-export const SemanticColorNeutralWeaker = "#fbfbfb";
 export const SemanticTextCaseNone = "none";
 export const SemanticTextCaseCapitalize = "capitalize";
 export const SemanticTextCaseUppercase = "uppercase";
