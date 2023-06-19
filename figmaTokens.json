@@ -2318,20 +2318,48 @@
             "value": "{semantic.color.success.default}",
             "type": "color"
           },
+          "onsuccess": {
+            "value": "{semantic.color.success.ondefault}",
+            "type": "color"
+          },
           "info": {
             "value": "{semantic.color.info.default}",
+            "type": "color"
+          },
+          "oninfo": {
+            "value": "{semantic.color.info.ondefault}",
             "type": "color"
           },
           "warning": {
             "value": "{semantic.color.warning.default}",
             "type": "color"
           },
+          "onwarning": {
+            "value": "{semantic.color.warning.ondefault}",
+            "type": "color"
+          },
           "attention": {
             "value": "{semantic.color.attention.default}",
             "type": "color"
           },
+          "onattention": {
+            "value": "{semantic.color.attention.ondefault}",
+            "type": "color"
+          },
           "danger": {
             "value": "{semantic.color.danger.default}",
+            "type": "color"
+          },
+          "ondanger": {
+            "value": "{semantic.color.danger.ondefault}",
+            "type": "color"
+          },
+          "neutral": {
+            "value": "{semantic.color.neutral.default}",
+            "type": "color"
+          },
+          "onneutral": {
+            "value": "{semantic.color.neutral.ondefault}",
             "type": "color"
           }
         },
@@ -2436,6 +2464,40 @@
           },
           "ondanger": {
             "value": "{semantic.color.danger.ondefault}",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "default": {
+            "value": "{global.color.neutral.950}",
+            "type": "color"
+          },
+          "ondefault": {
+            "value": "{global.color.primitives.white}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{global.color.neutral.900}",
+            "type": "color"
+          },
+          "emphasis": {
+            "value": "{global.color.neutral.800}",
+            "type": "color"
+          },
+          "muted": {
+            "value": "{global.color.neutral.300}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{global.color.neutral.200}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{global.color.neutral.100}",
+            "type": "color"
+          },
+          "weaker": {
+            "value": "{global.color.neutral.50}",
             "type": "color"
           }
         }
