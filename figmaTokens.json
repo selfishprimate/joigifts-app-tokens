@@ -2314,6 +2314,22 @@
             "value": "{semantic.color.foreground.ondisabled}",
             "type": "color"
           },
+          "primary": {
+            "value": "{semantic.color.primary.default}",
+            "type": "color"
+          },
+          "onprimary": {
+            "value": "{semantic.color.primary.ondefault}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{semantic.color.secondary.default}",
+            "type": "color"
+          },
+          "onsecondary": {
+            "value": "{semantic.color.secondary.ondefault}",
+            "type": "color"
+          },
           "success": {
             "value": "{semantic.color.success.default}",
             "type": "color"
@@ -2464,6 +2480,14 @@
           },
           "ondanger": {
             "value": "{semantic.color.danger.ondefault}",
+            "type": "color"
+          },
+          "neutral": {
+            "value": "{semantic.color.neutral.default}",
+            "type": "color"
+          },
+          "onneutral": {
+            "value": "{semantic.color.neutral.ondefault}",
             "type": "color"
           }
         },
