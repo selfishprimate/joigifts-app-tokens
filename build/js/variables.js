@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 16 Jun 2023 15:04:30 GMT
+ * Generated on Mon, 19 Jun 2023 11:16:20 GMT
  */
 
 export const SemanticOpacity100 = 0.16;
@@ -302,10 +302,17 @@ export const SemanticColorTextSubtle = "#909294";
 export const SemanticColorTextDisabled = "#a6a8a9";
 export const SemanticColorTextOndisabled = "#bcbebf";
 export const SemanticColorTextSuccess = "#16a34a";
+export const SemanticColorTextOnsuccess = "#ffffff";
 export const SemanticColorTextInfo = "#2563eb";
+export const SemanticColorTextOninfo = "#ffffff";
 export const SemanticColorTextWarning = "#ea580c";
+export const SemanticColorTextOnwarning = "#ffffff";
 export const SemanticColorTextAttention = "#eab308";
+export const SemanticColorTextOnattention = "#ffffff";
 export const SemanticColorTextDanger = "#dc2626";
+export const SemanticColorTextOndanger = "#ffffff";
+export const SemanticColorTextNeutral = "#212529";
+export const SemanticColorTextOnneutral = "#ffffff";
 export const SemanticColorAccentDefault = "#1d1e20";
 export const SemanticColorAccentOndefault = "#ffffff";
 export const SemanticColorAccentStrong = "#3f4246";
@@ -331,6 +338,14 @@ export const SemanticColorIconAttention = "#eab308";
 export const SemanticColorIconOnattention = "#ffffff";
 export const SemanticColorIconDanger = "#dc2626";
 export const SemanticColorIconOndanger = "#ffffff";
+export const SemanticColorNeutralDefault = "#212529";
+export const SemanticColorNeutralOndefault = "#ffffff";
+export const SemanticColorNeutralStrong = "#373b3e";
+export const SemanticColorNeutralEmphasis = "#585b5e";
+export const SemanticColorNeutralMuted = "#e9e9ea";
+export const SemanticColorNeutralSubtle = "#eff0f0";
+export const SemanticColorNeutralWeak = "#f4f4f4";
+export const SemanticColorNeutralWeaker = "#fbfbfb";
 export const SemanticTextCaseNone = "none";
 export const SemanticTextCaseCapitalize = "capitalize";
 export const SemanticTextCaseUppercase = "uppercase";
