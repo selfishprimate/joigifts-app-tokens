@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 19 Jun 2023 11:59:01 GMT
+ * Generated on Tue, 20 Jun 2023 12:33:30 GMT
  */
 
 export const SemanticOpacity100 = 0.16;
@@ -23,7 +23,7 @@ export const SemanticTypescaleTitleLargeFontWeight = 700;
 export const SemanticTypescaleTitleLargeLineHeight = 31;
 export const SemanticTypescaleTitleLargeFontSize = 26;
 export const SemanticTypescaleTitleMediumFontFamily = "Inter";
-export const SemanticTypescaleTitleMediumFontWeight = 700;
+export const SemanticTypescaleTitleMediumFontWeight = 600;
 export const SemanticTypescaleTitleMediumLineHeight = 28;
 export const SemanticTypescaleTitleMediumFontSize = 23;
 export const SemanticTypescaleTitleDefaultFontFamily = "Inter";
