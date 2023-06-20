@@ -1449,7 +1449,7 @@
           "medium": {
             "value": {
               "fontFamily": "{semantic.fontFamily.ltr.primary}",
-              "fontWeight": "{global.fontWeight.bold}",
+              "fontWeight": "{global.fontWeight.semiBold}",
               "lineHeight": "roundTo({global.fontSize.majorSecond.xlarge} * {global.lineHeight.ratio.default})",
               "fontSize": "{global.fontSize.majorSecond.xlarge}"
             },
