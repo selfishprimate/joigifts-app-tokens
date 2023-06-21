@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 20 Jun 2023 12:33:30 GMT
+ * Generated on Wed, 21 Jun 2023 15:02:38 GMT
  */
 
 :root {
@@ -414,7 +414,7 @@
   --semantic-border-width-default: 1;
   --semantic-border-width-medium: 1.5;
   --semantic-border-width-large: 2;
-  --global-font-weight-thin: 200;
+  --global-font-weight-thin: 100;
   --global-font-weight-extra-light: 200;
   --global-font-weight-light: 300;
   --global-font-weight-normal: 400;
