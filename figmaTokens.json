@@ -3,7 +3,7 @@
     "global": {
       "fontWeight": {
         "thin": {
-          "value": "200",
+          "value": "100",
           "type": "fontWeights"
         },
         "extraLight": {
