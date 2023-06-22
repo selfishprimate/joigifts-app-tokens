@@ -2855,6 +2855,10 @@
         "20": {
           "value": "80",
           "type": "sizing"
+        },
+        "025": {
+          "value": "1",
+          "type": "sizing"
         }
       },
       "borderWidth": {
