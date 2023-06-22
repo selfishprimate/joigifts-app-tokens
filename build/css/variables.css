@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 21 Jun 2023 15:02:38 GMT
+ * Generated on Thu, 22 Jun 2023 11:31:03 GMT
  */
 
 :root {
@@ -411,6 +411,7 @@
   --semantic-sizing-18: 72;
   --semantic-sizing-19: 76;
   --semantic-sizing-20: 80;
+  --semantic-sizing-025: 1;
   --semantic-border-width-default: 1;
   --semantic-border-width-medium: 1.5;
   --semantic-border-width-large: 2;
