@@ -1777,7 +1777,7 @@
           "badge": {
             "normal": {
               "value": {
-                "fontFamily": "{global.fontFamily.inter}",
+                "fontFamily": "{semantic.fontFamily.en.primary}",
                 "fontWeight": "{global.fontWeight.normal}",
                 "lineHeight": "roundTo({global.fontSize.majorSecond.3xsmall} * {global.lineHeight.ratio.default})",
                 "fontSize": "{global.fontSize.majorSecond.3xsmall}"
@@ -1786,7 +1786,7 @@
             },
             "medium": {
               "value": {
-                "fontFamily": "{global.fontFamily.inter}",
+                "fontFamily": "{semantic.fontFamily.en.primary}",
                 "fontWeight": "{global.fontWeight.medium}",
                 "lineHeight": "roundTo({global.fontSize.majorSecond.3xsmall} * {global.lineHeight.ratio.default})",
                 "fontSize": "{global.fontSize.majorSecond.3xsmall}"
@@ -1795,7 +1795,7 @@
             },
             "semiBold": {
               "value": {
-                "fontFamily": "{global.fontFamily.inter}",
+                "fontFamily": "{semantic.fontFamily.en.primary}",
                 "fontWeight": "{global.fontWeight.semiBold}",
                 "lineHeight": "roundTo({global.fontSize.majorSecond.3xsmall} * {global.lineHeight.ratio.default})",
                 "fontSize": "{global.fontSize.majorSecond.3xsmall}"
@@ -1804,7 +1804,7 @@
             },
             "bold": {
               "value": {
-                "fontFamily": "{global.fontFamily.inter}",
+                "fontFamily": "{semantic.fontFamily.en.primary}",
                 "fontWeight": "{global.fontWeight.bold}",
                 "lineHeight": "roundTo({global.fontSize.majorSecond.3xsmall} * {global.lineHeight.ratio.default})",
                 "fontSize": "{global.fontSize.majorSecond.3xsmall}"
