@@ -1875,7 +1875,7 @@
             "default": {
               "normal": {
                 "value": {
-                  "fontFamily": "{semantic.fontFamily.en.primary}",
+                  "fontFamily": "{semantic.fontFamily.ar.primary}",
                   "fontWeight": "{global.fontWeight.normal}",
                   "lineHeight": "roundTo({global.fontSize.majorSecond.default} * {global.lineHeight.ratio.medium})",
                   "fontSize": "{global.fontSize.majorSecond.default}",
@@ -1885,7 +1885,7 @@
               },
               "medium": {
                 "value": {
-                  "fontFamily": "{semantic.fontFamily.en.primary}",
+                  "fontFamily": "{semantic.fontFamily.ar.primary}",
                   "fontWeight": "{global.fontWeight.medium}",
                   "lineHeight": "roundTo({global.fontSize.majorSecond.default} * {global.lineHeight.ratio.medium})",
                   "fontSize": "{global.fontSize.majorSecond.default}",
@@ -1895,7 +1895,7 @@
               },
               "semiBold": {
                 "value": {
-                  "fontFamily": "{semantic.fontFamily.en.primary}",
+                  "fontFamily": "{semantic.fontFamily.ar.primary}",
                   "fontWeight": "{global.fontWeight.bold}",
                   "lineHeight": "roundTo({global.fontSize.majorSecond.default} * {global.lineHeight.ratio.medium})",
                   "fontSize": "{global.fontSize.majorSecond.default}",
@@ -1905,7 +1905,7 @@
               },
               "bold": {
                 "value": {
-                  "fontFamily": "{semantic.fontFamily.en.primary}",
+                  "fontFamily": "{semantic.fontFamily.ar.primary}",
                   "fontWeight": "{global.fontWeight.bold}",
                   "lineHeight": "roundTo({global.fontSize.majorSecond.default} * {global.lineHeight.ratio.medium})",
                   "fontSize": "{global.fontSize.majorSecond.default}",
@@ -1917,7 +1917,7 @@
             "small": {
               "normal": {
                 "value": {
-                  "fontFamily": "{semantic.fontFamily.en.primary}",
+                  "fontFamily": "{semantic.fontFamily.ar.primary}",
                   "fontWeight": "{global.fontWeight.normal}",
                   "lineHeight": "roundTo({global.fontSize.majorSecond.small} * {global.lineHeight.ratio.medium})",
                   "fontSize": "{global.fontSize.majorSecond.small}",
@@ -1927,7 +1927,7 @@
               },
               "medium": {
                 "value": {
-                  "fontFamily": "{semantic.fontFamily.en.primary}",
+                  "fontFamily": "{semantic.fontFamily.ar.primary}",
                   "fontWeight": "{global.fontWeight.medium}",
                   "lineHeight": "roundTo({global.fontSize.majorSecond.small} * {global.lineHeight.ratio.medium})",
                   "fontSize": "{global.fontSize.majorSecond.small}",
@@ -1937,7 +1937,7 @@
               },
               "semiBold": {
                 "value": {
-                  "fontFamily": "{semantic.fontFamily.en.primary}",
+                  "fontFamily": "{semantic.fontFamily.ar.primary}",
                   "fontWeight": "{global.fontWeight.bold}",
                   "lineHeight": "roundTo({global.fontSize.majorSecond.small} * {global.lineHeight.ratio.medium})",
                   "fontSize": "{global.fontSize.majorSecond.small}",
@@ -1947,7 +1947,7 @@
               },
               "bold": {
                 "value": {
-                  "fontFamily": "{semantic.fontFamily.en.primary}",
+                  "fontFamily": "{semantic.fontFamily.ar.primary}",
                   "fontWeight": "{global.fontWeight.bold}",
                   "lineHeight": "roundTo({global.fontSize.majorSecond.small} * {global.lineHeight.ratio.medium})",
                   "fontSize": "{global.fontSize.majorSecond.small}",
@@ -1961,7 +1961,7 @@
             "default": {
               "normal": {
                 "value": {
-                  "fontFamily": "{semantic.fontFamily.en.primary}",
+                  "fontFamily": "{semantic.fontFamily.ar.primary}",
                   "fontWeight": "{global.fontWeight.normal}",
                   "lineHeight": "roundTo({global.fontSize.majorSecond.xsmall} * {global.lineHeight.ratio.default})",
                   "fontSize": "{global.fontSize.majorSecond.xsmall}",
@@ -1971,7 +1971,7 @@
               },
               "medium": {
                 "value": {
-                  "fontFamily": "{semantic.fontFamily.en.primary}",
+                  "fontFamily": "{semantic.fontFamily.ar.primary}",
                   "fontWeight": "{global.fontWeight.medium}",
                   "lineHeight": "roundTo({global.fontSize.majorSecond.xsmall} * {global.lineHeight.ratio.default})",
                   "fontSize": "{global.fontSize.majorSecond.xsmall}",
@@ -1981,7 +1981,7 @@
               },
               "semiBold": {
                 "value": {
-                  "fontFamily": "{semantic.fontFamily.en.primary}",
+                  "fontFamily": "{semantic.fontFamily.ar.primary}",
                   "fontWeight": "{global.fontWeight.bold}",
                   "lineHeight": "roundTo({global.fontSize.majorSecond.xsmall} * {global.lineHeight.ratio.default})",
                   "fontSize": "{global.fontSize.majorSecond.xsmall}",
@@ -1991,7 +1991,7 @@
               },
               "bold": {
                 "value": {
-                  "fontFamily": "{semantic.fontFamily.en.primary}",
+                  "fontFamily": "{semantic.fontFamily.ar.primary}",
                   "fontWeight": "{global.fontWeight.bold}",
                   "lineHeight": "roundTo({global.fontSize.majorSecond.xsmall} * {global.lineHeight.ratio.default})",
                   "fontSize": "{global.fontSize.majorSecond.xsmall}",
@@ -2003,7 +2003,7 @@
             "small": {
               "normal": {
                 "value": {
-                  "fontFamily": "{semantic.fontFamily.en.primary}",
+                  "fontFamily": "{semantic.fontFamily.ar.primary}",
                   "fontWeight": "{global.fontWeight.normal}",
                   "lineHeight": "roundTo({global.fontSize.majorSecond.2xsmall} * {global.lineHeight.ratio.default})",
                   "fontSize": "{global.fontSize.majorSecond.2xsmall}",
@@ -2013,7 +2013,7 @@
               },
               "medium": {
                 "value": {
-                  "fontFamily": "{semantic.fontFamily.en.primary}",
+                  "fontFamily": "{semantic.fontFamily.ar.primary}",
                   "fontWeight": "{global.fontWeight.medium}",
                   "lineHeight": "roundTo({global.fontSize.majorSecond.2xsmall} * {global.lineHeight.ratio.default})",
                   "fontSize": "{global.fontSize.majorSecond.2xsmall}",
@@ -2023,7 +2023,7 @@
               },
               "semiBold": {
                 "value": {
-                  "fontFamily": "{semantic.fontFamily.en.primary}",
+                  "fontFamily": "{semantic.fontFamily.ar.primary}",
                   "fontWeight": "{global.fontWeight.bold}",
                   "lineHeight": "roundTo({global.fontSize.majorSecond.2xsmall} * {global.lineHeight.ratio.default})",
                   "fontSize": "{global.fontSize.majorSecond.2xsmall}",
@@ -2033,7 +2033,7 @@
               },
               "bold": {
                 "value": {
-                  "fontFamily": "{semantic.fontFamily.en.primary}",
+                  "fontFamily": "{semantic.fontFamily.ar.primary}",
                   "fontWeight": "{global.fontWeight.bold}",
                   "lineHeight": "roundTo({global.fontSize.majorSecond.2xsmall} * {global.lineHeight.ratio.default})",
                   "fontSize": "{global.fontSize.majorSecond.2xsmall}",
