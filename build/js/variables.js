@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 19 Jul 2023 10:12:09 GMT
+ * Generated on Wed, 19 Jul 2023 10:15:47 GMT
  */
 
 export const SemanticOpacity100 = 0.16;
