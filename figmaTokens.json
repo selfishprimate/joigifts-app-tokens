@@ -2922,6 +2922,12 @@
             "value": "{semantic.color.neutral.ondefault}",
             "type": "color"
           }
+        },
+        "various": {
+          "mimiPink": {
+            "value": "#F4D4D9",
+            "type": "color"
+          }
         }
       },
       "textCase": {
