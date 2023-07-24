@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 19 Jul 2023 10:16:54 GMT
+ * Generated on Mon, 24 Jul 2023 11:54:04 GMT
  */
 
 export const SemanticOpacity100 = 0.16;
@@ -525,6 +525,7 @@ export const SemanticColorIconDanger = "#dc2626";
 export const SemanticColorIconOndanger = "#ffffff";
 export const SemanticColorIconNeutral = "#212529";
 export const SemanticColorIconOnneutral = "#ffffff";
+export const SemanticColorVariousMimiPink = "#F4D4D9";
 export const SemanticTextCaseNone = "none";
 export const SemanticTextCaseCapitalize = "capitalize";
 export const SemanticTextCaseUppercase = "uppercase";
