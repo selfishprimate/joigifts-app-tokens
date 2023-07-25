@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 25 Jul 2023 12:35:13 GMT
+ * Generated on Tue, 25 Jul 2023 13:44:06 GMT
  */
 
 export const SemanticOpacity100 = 0.16;
@@ -34,6 +34,14 @@ export const SemanticTypescaleEnTitleSmallFontFamily = "Inter";
 export const SemanticTypescaleEnTitleSmallFontWeight = 600;
 export const SemanticTypescaleEnTitleSmallLineHeight = 22;
 export const SemanticTypescaleEnTitleSmallFontSize = 18;
+export const SemanticTypescaleEnTitleXsmallFontFamily = "Inter";
+export const SemanticTypescaleEnTitleXsmallFontWeight = 500;
+export const SemanticTypescaleEnTitleXsmallLineHeight = 19;
+export const SemanticTypescaleEnTitleXsmallFontSize = 16;
+export const SemanticTypescaleEnTitleXxsmallFontFamily = "Inter";
+export const SemanticTypescaleEnTitleXxsmallFontWeight = 500;
+export const SemanticTypescaleEnTitleXxsmallLineHeight = 17;
+export const SemanticTypescaleEnTitleXxsmallFontSize = 14;
 export const SemanticTypescaleEnSubtitleLargeLightFontFamily = "Inter";
 export const SemanticTypescaleEnSubtitleLargeLightFontWeight = 300;
 export const SemanticTypescaleEnSubtitleLargeLightLineHeight = 25;
