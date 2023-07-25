@@ -1473,6 +1473,24 @@
                 "fontSize": "{global.fontSize.majorSecond.medium}"
               },
               "type": "typography"
+            },
+            "xsmall": {
+              "value": {
+                "fontFamily": "{semantic.fontFamily.en.primary}",
+                "fontWeight": "{global.fontWeight.medium}",
+                "lineHeight": "roundTo({global.fontSize.majorSecond.default} * {global.lineHeight.ratio.default})",
+                "fontSize": "{global.fontSize.majorSecond.default}"
+              },
+              "type": "typography"
+            },
+            "xxsmall": {
+              "value": {
+                "fontFamily": "{semantic.fontFamily.en.primary}",
+                "fontWeight": "{global.fontWeight.medium}",
+                "lineHeight": "roundTo({global.fontSize.majorSecond.small} * {global.lineHeight.ratio.default})",
+                "fontSize": "{global.fontSize.majorSecond.small}"
+              },
+              "type": "typography"
             }
           },
           "subtitle": {
