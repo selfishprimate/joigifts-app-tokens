@@ -1486,9 +1486,18 @@
             "xxsmall": {
               "value": {
                 "fontFamily": "{semantic.fontFamily.en.primary}",
-                "fontWeight": "{global.fontWeight.medium}",
+                "fontWeight": "{global.fontWeight.normal}",
                 "lineHeight": "roundTo({global.fontSize.majorSecond.small} * {global.lineHeight.ratio.default})",
                 "fontSize": "{global.fontSize.majorSecond.small}"
+              },
+              "type": "typography"
+            },
+            "xxxsmall": {
+              "value": {
+                "fontFamily": "{semantic.fontFamily.en.primary}",
+                "fontWeight": "{global.fontWeight.normal}",
+                "lineHeight": "roundTo(13 * {global.lineHeight.ratio.default})",
+                "fontSize": "13"
               },
               "type": "typography"
             }
@@ -1971,6 +1980,33 @@
         },
         "ar": {
           "title": {
+            "xxsmall": {
+              "value": {
+                "fontFamily": "{semantic.fontFamily.ar.primary}",
+                "fontWeight": "{global.fontWeight.normal}",
+                "lineHeight": "roundTo({global.fontSize.majorSecond.small} * {global.lineHeight.ratio.default})",
+                "fontSize": "{global.fontSize.majorSecond.small}"
+              },
+              "type": "typography"
+            },
+            "xxxsmall": {
+              "value": {
+                "fontFamily": "{semantic.fontFamily.ar.primary}",
+                "fontWeight": "{global.fontWeight.normal}",
+                "lineHeight": "roundTo(13 * {global.lineHeight.ratio.default})",
+                "fontSize": "13"
+              },
+              "type": "typography"
+            },
+            "xsmall": {
+              "value": {
+                "fontFamily": "{semantic.fontFamily.ar.primary}",
+                "fontWeight": "{global.fontWeight.medium}",
+                "lineHeight": "roundTo({global.fontSize.majorSecond.default} * {global.lineHeight.ratio.default})",
+                "fontSize": "{global.fontSize.majorSecond.default}"
+              },
+              "type": "typography"
+            },
             "xlarge": {
               "value": {
                 "fontFamily": "{semantic.fontFamily.ar.primary}",
