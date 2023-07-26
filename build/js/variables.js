@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 26 Jul 2023 06:41:50 GMT
+ * Generated on Wed, 26 Jul 2023 06:44:55 GMT
  */
 
 export const SemanticOpacity100 = 0.16;
@@ -259,18 +259,6 @@ export const SemanticTypescaleEnDefaultFontWeight = 400;
 export const SemanticTypescaleEnDefaultLineHeight = 21;
 export const SemanticTypescaleEnDefaultFontSize = 16;
 export const SemanticTypescaleEnDefaultTextDecoration = "";
-export const SemanticTypescaleArTitleXxsmallFontFamily = "Tajawal";
-export const SemanticTypescaleArTitleXxsmallFontWeight = 400;
-export const SemanticTypescaleArTitleXxsmallLineHeight = 17;
-export const SemanticTypescaleArTitleXxsmallFontSize = 14;
-export const SemanticTypescaleArTitleXxxsmallFontFamily = "Tajawal";
-export const SemanticTypescaleArTitleXxxsmallFontWeight = 400;
-export const SemanticTypescaleArTitleXxxsmallLineHeight = 16;
-export const SemanticTypescaleArTitleXxxsmallFontSize = 13;
-export const SemanticTypescaleArTitleXsmallFontFamily = "Tajawal";
-export const SemanticTypescaleArTitleXsmallFontWeight = 500;
-export const SemanticTypescaleArTitleXsmallLineHeight = 19;
-export const SemanticTypescaleArTitleXsmallFontSize = 16;
 export const SemanticTypescaleArTitleXlargeFontFamily = "Tajawal";
 export const SemanticTypescaleArTitleXlargeFontWeight = 700;
 export const SemanticTypescaleArTitleXlargeLineHeight = 35;
@@ -291,6 +279,18 @@ export const SemanticTypescaleArTitleSmallFontFamily = "Tajawal";
 export const SemanticTypescaleArTitleSmallFontWeight = 700;
 export const SemanticTypescaleArTitleSmallLineHeight = 22;
 export const SemanticTypescaleArTitleSmallFontSize = 18;
+export const SemanticTypescaleArTitleXsmallFontFamily = "Tajawal";
+export const SemanticTypescaleArTitleXsmallFontWeight = 500;
+export const SemanticTypescaleArTitleXsmallLineHeight = 19;
+export const SemanticTypescaleArTitleXsmallFontSize = 16;
+export const SemanticTypescaleArTitleXxsmallFontFamily = "Tajawal";
+export const SemanticTypescaleArTitleXxsmallFontWeight = 400;
+export const SemanticTypescaleArTitleXxsmallLineHeight = 17;
+export const SemanticTypescaleArTitleXxsmallFontSize = 14;
+export const SemanticTypescaleArTitleXxxsmallFontFamily = "Tajawal";
+export const SemanticTypescaleArTitleXxxsmallFontWeight = 400;
+export const SemanticTypescaleArTitleXxxsmallLineHeight = 16;
+export const SemanticTypescaleArTitleXxxsmallFontSize = 13;
 export const SemanticTypescaleArSubtitleLargeLightFontFamily = "Tajawal";
 export const SemanticTypescaleArSubtitleLargeLightFontWeight = 300;
 export const SemanticTypescaleArSubtitleLargeLightLineHeight = 25;

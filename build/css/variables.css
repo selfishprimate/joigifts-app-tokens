@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 26 Jul 2023 06:41:50 GMT
+ * Generated on Wed, 26 Jul 2023 06:44:55 GMT
  */
 
 :root {
@@ -260,18 +260,6 @@
   --semantic-typescale-en-default-line-height: 21;
   --semantic-typescale-en-default-font-size: 16;
   --semantic-typescale-en-default-text-decoration: ;
-  --semantic-typescale-ar-title-xxsmall-font-family: Tajawal;
-  --semantic-typescale-ar-title-xxsmall-font-weight: 400;
-  --semantic-typescale-ar-title-xxsmall-line-height: 17;
-  --semantic-typescale-ar-title-xxsmall-font-size: 14;
-  --semantic-typescale-ar-title-xxxsmall-font-family: Tajawal;
-  --semantic-typescale-ar-title-xxxsmall-font-weight: 400;
-  --semantic-typescale-ar-title-xxxsmall-line-height: 16;
-  --semantic-typescale-ar-title-xxxsmall-font-size: 13;
-  --semantic-typescale-ar-title-xsmall-font-family: Tajawal;
-  --semantic-typescale-ar-title-xsmall-font-weight: 500;
-  --semantic-typescale-ar-title-xsmall-line-height: 19;
-  --semantic-typescale-ar-title-xsmall-font-size: 16;
   --semantic-typescale-ar-title-xlarge-font-family: Tajawal;
   --semantic-typescale-ar-title-xlarge-font-weight: 700;
   --semantic-typescale-ar-title-xlarge-line-height: 35;
@@ -292,6 +280,18 @@
   --semantic-typescale-ar-title-small-font-weight: 700;
   --semantic-typescale-ar-title-small-line-height: 22;
   --semantic-typescale-ar-title-small-font-size: 18;
+  --semantic-typescale-ar-title-xsmall-font-family: Tajawal;
+  --semantic-typescale-ar-title-xsmall-font-weight: 500;
+  --semantic-typescale-ar-title-xsmall-line-height: 19;
+  --semantic-typescale-ar-title-xsmall-font-size: 16;
+  --semantic-typescale-ar-title-xxsmall-font-family: Tajawal;
+  --semantic-typescale-ar-title-xxsmall-font-weight: 400;
+  --semantic-typescale-ar-title-xxsmall-line-height: 17;
+  --semantic-typescale-ar-title-xxsmall-font-size: 14;
+  --semantic-typescale-ar-title-xxxsmall-font-family: Tajawal;
+  --semantic-typescale-ar-title-xxxsmall-font-weight: 400;
+  --semantic-typescale-ar-title-xxxsmall-line-height: 16;
+  --semantic-typescale-ar-title-xxxsmall-font-size: 13;
   --semantic-typescale-ar-subtitle-large-light-font-family: Tajawal;
   --semantic-typescale-ar-subtitle-large-light-font-weight: 300;
   --semantic-typescale-ar-subtitle-large-light-line-height: 25;
