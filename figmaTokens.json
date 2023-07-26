@@ -3237,6 +3237,14 @@
           "mimiPink": {
             "value": "#F4D4D9",
             "type": "color"
+          },
+          "black": {
+            "value": "{global.color.primitives.black}",
+            "type": "color"
+          },
+          "white": {
+            "value": "{global.color.primitives.white}",
+            "type": "color"
           }
         }
       },
