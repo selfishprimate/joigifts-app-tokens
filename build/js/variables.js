@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 25 Jul 2023 13:44:06 GMT
+ * Generated on Wed, 26 Jul 2023 06:41:50 GMT
  */
 
 export const SemanticOpacity100 = 0.16;
@@ -39,9 +39,13 @@ export const SemanticTypescaleEnTitleXsmallFontWeight = 500;
 export const SemanticTypescaleEnTitleXsmallLineHeight = 19;
 export const SemanticTypescaleEnTitleXsmallFontSize = 16;
 export const SemanticTypescaleEnTitleXxsmallFontFamily = "Inter";
-export const SemanticTypescaleEnTitleXxsmallFontWeight = 500;
+export const SemanticTypescaleEnTitleXxsmallFontWeight = 400;
 export const SemanticTypescaleEnTitleXxsmallLineHeight = 17;
 export const SemanticTypescaleEnTitleXxsmallFontSize = 14;
+export const SemanticTypescaleEnTitleXxxsmallFontFamily = "Inter";
+export const SemanticTypescaleEnTitleXxxsmallFontWeight = 400;
+export const SemanticTypescaleEnTitleXxxsmallLineHeight = 16;
+export const SemanticTypescaleEnTitleXxxsmallFontSize = 13;
 export const SemanticTypescaleEnSubtitleLargeLightFontFamily = "Inter";
 export const SemanticTypescaleEnSubtitleLargeLightFontWeight = 300;
 export const SemanticTypescaleEnSubtitleLargeLightLineHeight = 25;
@@ -255,6 +259,18 @@ export const SemanticTypescaleEnDefaultFontWeight = 400;
 export const SemanticTypescaleEnDefaultLineHeight = 21;
 export const SemanticTypescaleEnDefaultFontSize = 16;
 export const SemanticTypescaleEnDefaultTextDecoration = "";
+export const SemanticTypescaleArTitleXxsmallFontFamily = "Tajawal";
+export const SemanticTypescaleArTitleXxsmallFontWeight = 400;
+export const SemanticTypescaleArTitleXxsmallLineHeight = 17;
+export const SemanticTypescaleArTitleXxsmallFontSize = 14;
+export const SemanticTypescaleArTitleXxxsmallFontFamily = "Tajawal";
+export const SemanticTypescaleArTitleXxxsmallFontWeight = 400;
+export const SemanticTypescaleArTitleXxxsmallLineHeight = 16;
+export const SemanticTypescaleArTitleXxxsmallFontSize = 13;
+export const SemanticTypescaleArTitleXsmallFontFamily = "Tajawal";
+export const SemanticTypescaleArTitleXsmallFontWeight = 500;
+export const SemanticTypescaleArTitleXsmallLineHeight = 19;
+export const SemanticTypescaleArTitleXsmallFontSize = 16;
 export const SemanticTypescaleArTitleXlargeFontFamily = "Tajawal";
 export const SemanticTypescaleArTitleXlargeFontWeight = 700;
 export const SemanticTypescaleArTitleXlargeLineHeight = 35;
