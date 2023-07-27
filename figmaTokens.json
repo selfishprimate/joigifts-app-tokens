@@ -3245,6 +3245,10 @@
           "white": {
             "value": "{global.color.primitives.white}",
             "type": "color"
+          },
+          "rose": {
+            "value": "{global.color.rose.500}",
+            "type": "color"
           }
         }
       },
