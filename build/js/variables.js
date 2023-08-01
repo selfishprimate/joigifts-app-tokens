@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 27 Jul 2023 09:14:09 GMT
+ * Generated on Tue, 01 Aug 2023 15:15:22 GMT
  */
 
 export const SemanticOpacity100 = 0.16;
@@ -522,9 +522,10 @@ export const SemanticLineHeightLarge = "140%";
 export const SemanticRadiiNone = 0;
 export const SemanticRadiiXsmall = 2;
 export const SemanticRadiiSmall = 4;
-export const SemanticRadiiInner = 3;
-export const SemanticRadiiDefault = 6;
-export const SemanticRadiiMedium = 8;
+export const SemanticRadiiSmallInner = 3;
+export const SemanticRadiiDefault = 8;
+export const SemanticRadiiDefaultInner = 7;
+export const SemanticRadiiMedium = 12;
 export const SemanticRadiiLarge = 16;
 export const SemanticRadiiXlarge = 32;
 export const SemanticRadiiXxlarge = 64;
