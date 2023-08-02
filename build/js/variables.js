@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 01 Aug 2023 15:15:22 GMT
+ * Generated on Wed, 02 Aug 2023 08:52:22 GMT
  */
 
 export const SemanticOpacity100 = 0.16;
@@ -702,6 +702,7 @@ export const SemanticSpacing32 = 128;
 export const SemanticSpacing40 = 160;
 export const SemanticSpacing48 = 192;
 export const SemanticSpacing56 = 224;
+export const SemanticSpacing2half = 10;
 export const SemanticSpacing025 = 1;
 export const SemanticSpacing05 = 2;
 export const SemanticShadowSmall = {"color":"#0000000d","type":"dropShadow","x":0,"y":1,"blur":2,"spread":0};
