@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 02 Aug 2023 08:52:22 GMT
+ * Generated on Wed, 16 Aug 2023 12:42:52 GMT
  */
 
 export const SemanticOpacity100 = 0.16;
@@ -609,6 +609,8 @@ export const SemanticColorBackground500 = "#f0f0f0";
 export const SemanticColorBackground600 = "#ebebeb";
 export const SemanticColorBackground700 = "#e6e6e6";
 export const SemanticColorBackground800 = "#e0e0e0";
+export const SemanticColorBackground900 = "#dbdbdb";
+export const SemanticColorBackground950 = "#d6d6d6";
 export const SemanticColorLinkDefault = "#2563eb";
 export const SemanticColorLinkStrong = "#1e3a8a";
 export const SemanticColorLinkEmphasis = "#1d4ed8";
