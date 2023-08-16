@@ -2981,6 +2981,14 @@
           "800": {
             "value": "{global.color.white.300}",
             "type": "color"
+          },
+          "900": {
+            "value": "{global.color.white.200}",
+            "type": "color"
+          },
+          "950": {
+            "value": "{global.color.white.100}",
+            "type": "color"
           }
         },
         "link": {
