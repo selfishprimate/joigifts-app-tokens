@@ -3262,6 +3262,14 @@
             "value": "{global.color.rose.500}",
             "type": "color"
           }
+        },
+        "gradients": {
+          "linear": {
+            "blackZero": {
+              "value": "linear-gradient(0deg, rgba(#000000, 0.75) 0, rgba(#000000, 0.50) 30%, rgba(#000000, 0.25) 50%, rgba(#000000, 0) 100%)",
+              "type": "color"
+            }
+          }
         }
       },
       "textCase": {
