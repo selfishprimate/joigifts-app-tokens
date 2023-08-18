@@ -3389,6 +3389,10 @@
           "value": "224",
           "type": "spacing"
         },
+        "1half": {
+          "value": "6",
+          "type": "spacing"
+        },
         "2half": {
           "value": "10",
           "type": "spacing"
@@ -3608,6 +3612,10 @@
         },
         "025": {
           "value": "1",
+          "type": "sizing"
+        },
+        "1half": {
+          "value": "6",
           "type": "sizing"
         }
       },
