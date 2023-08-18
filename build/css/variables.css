@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 17 Aug 2023 13:24:43 GMT
+ * Generated on Fri, 18 Aug 2023 08:23:56 GMT
  */
 
 :root {
@@ -706,6 +706,7 @@
   --semantic-spacing-40: 160;
   --semantic-spacing-48: 192;
   --semantic-spacing-56: 224;
+  --semantic-spacing-1half: 6;
   --semantic-spacing-2half: 10;
   --semantic-spacing-025: 1;
   --semantic-spacing-05: 2;
@@ -738,6 +739,7 @@
   --semantic-sizing-19: 76;
   --semantic-sizing-20: 80;
   --semantic-sizing-025: 1;
+  --semantic-sizing-1half: 6;
   --semantic-border-width-default: 1;
   --semantic-border-width-medium: 1.5;
   --semantic-border-width-large: 2;

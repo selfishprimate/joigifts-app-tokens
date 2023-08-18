@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 17 Aug 2023 13:24:43 GMT
+ * Generated on Fri, 18 Aug 2023 08:23:56 GMT
  */
 
 export const SemanticOpacity100 = 0.16;
@@ -705,6 +705,7 @@ export const SemanticSpacing32 = 128;
 export const SemanticSpacing40 = 160;
 export const SemanticSpacing48 = 192;
 export const SemanticSpacing56 = 224;
+export const SemanticSpacing1half = 6;
 export const SemanticSpacing2half = 10;
 export const SemanticSpacing025 = 1;
 export const SemanticSpacing05 = 2;
@@ -737,6 +738,7 @@ export const SemanticSizing18 = 72;
 export const SemanticSizing19 = 76;
 export const SemanticSizing20 = 80;
 export const SemanticSizing025 = 1;
+export const SemanticSizing1half = 6;
 export const SemanticBorderWidthDefault = 1;
 export const SemanticBorderWidthMedium = 1.5;
 export const SemanticBorderWidthLarge = 2;
