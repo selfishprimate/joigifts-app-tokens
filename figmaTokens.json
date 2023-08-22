@@ -3041,6 +3041,10 @@
           "onsurface": {
             "value": "{global.color.primitives.white}",
             "type": "color"
+          },
+          "danger": {
+            "value": "{semantic.color.danger.default}",
+            "type": "color"
           }
         },
         "accent": {
