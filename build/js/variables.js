@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 18 Aug 2023 08:23:56 GMT
+ * Generated on Tue, 22 Aug 2023 12:27:27 GMT
  */
 
 export const SemanticOpacity100 = 0.16;
@@ -623,6 +623,7 @@ export const SemanticColorBorderWeak = "#e9e9ea";
 export const SemanticColorBorderWeaker = "#eff0f0";
 export const SemanticColorBorderActive = "#212529";
 export const SemanticColorBorderOnsurface = "#ffffff";
+export const SemanticColorBorderDanger = "#dc2626";
 export const SemanticColorAccentDefault = "#1d1e20";
 export const SemanticColorAccentOndefault = "#ffffff";
 export const SemanticColorAccentStrong = "#3f4246";
