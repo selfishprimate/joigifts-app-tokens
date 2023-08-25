@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 22 Aug 2023 12:27:27 GMT
+ * Generated on Fri, 25 Aug 2023 10:24:25 GMT
  */
 
 export const SemanticOpacity100 = 0.16;
@@ -254,6 +254,22 @@ export const SemanticTypescaleEnBadgeBoldFontFamily = "Inter";
 export const SemanticTypescaleEnBadgeBoldFontWeight = 700;
 export const SemanticTypescaleEnBadgeBoldLineHeight = 12;
 export const SemanticTypescaleEnBadgeBoldFontSize = 10;
+export const SemanticTypescaleEnLinkLargeFontFamily = "Inter";
+export const SemanticTypescaleEnLinkLargeFontWeight = 500;
+export const SemanticTypescaleEnLinkLargeLineHeight = 22;
+export const SemanticTypescaleEnLinkLargeFontSize = 18;
+export const SemanticTypescaleEnLinkDefaultFontFamily = "Inter";
+export const SemanticTypescaleEnLinkDefaultFontWeight = 500;
+export const SemanticTypescaleEnLinkDefaultLineHeight = 19;
+export const SemanticTypescaleEnLinkDefaultFontSize = 16;
+export const SemanticTypescaleEnLinkSmallFontFamily = "Inter";
+export const SemanticTypescaleEnLinkSmallFontWeight = 500;
+export const SemanticTypescaleEnLinkSmallLineHeight = 17;
+export const SemanticTypescaleEnLinkSmallFontSize = 14;
+export const SemanticTypescaleEnLinkXsmallFontFamily = "Inter";
+export const SemanticTypescaleEnLinkXsmallFontWeight = 500;
+export const SemanticTypescaleEnLinkXsmallLineHeight = 14;
+export const SemanticTypescaleEnLinkXsmallFontSize = 12;
 export const SemanticTypescaleEnDefaultFontFamily = "Inter";
 export const SemanticTypescaleEnDefaultFontWeight = 400;
 export const SemanticTypescaleEnDefaultLineHeight = 21;
@@ -499,6 +515,22 @@ export const SemanticTypescaleArBadgeBoldFontFamily = "Tajawal";
 export const SemanticTypescaleArBadgeBoldFontWeight = 700;
 export const SemanticTypescaleArBadgeBoldLineHeight = 12;
 export const SemanticTypescaleArBadgeBoldFontSize = 10;
+export const SemanticTypescaleArLinkLargeFontFamily = "Tajawal";
+export const SemanticTypescaleArLinkLargeFontWeight = 500;
+export const SemanticTypescaleArLinkLargeLineHeight = 22;
+export const SemanticTypescaleArLinkLargeFontSize = 18;
+export const SemanticTypescaleArLinkDefaultFontFamily = "Tajawal";
+export const SemanticTypescaleArLinkDefaultFontWeight = 500;
+export const SemanticTypescaleArLinkDefaultLineHeight = 19;
+export const SemanticTypescaleArLinkDefaultFontSize = 16;
+export const SemanticTypescaleArLinkSmallFontFamily = "Tajawal";
+export const SemanticTypescaleArLinkSmallFontWeight = 500;
+export const SemanticTypescaleArLinkSmallLineHeight = 17;
+export const SemanticTypescaleArLinkSmallFontSize = 14;
+export const SemanticTypescaleArLinkXsmallFontFamily = "Tajawal";
+export const SemanticTypescaleArLinkXsmallFontWeight = 500;
+export const SemanticTypescaleArLinkXsmallLineHeight = 14;
+export const SemanticTypescaleArLinkXsmallFontSize = 12;
 export const SemanticTypescaleArDefaultFontFamily = "Tajawal";
 export const SemanticTypescaleArDefaultFontWeight = 400;
 export const SemanticTypescaleArDefaultLineHeight = 21;
