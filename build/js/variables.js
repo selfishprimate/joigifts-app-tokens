@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 25 Aug 2023 10:24:25 GMT
+ * Generated on Fri, 25 Aug 2023 19:49:55 GMT
  */
 
 export const SemanticOpacity100 = 0.16;
@@ -772,6 +772,7 @@ export const SemanticSizing19 = 76;
 export const SemanticSizing20 = 80;
 export const SemanticSizing025 = 1;
 export const SemanticSizing1half = 6;
+export const SemanticBorderWidthNone = 0;
 export const SemanticBorderWidthDefault = 1;
 export const SemanticBorderWidthMedium = 1.5;
 export const SemanticBorderWidthLarge = 2;
