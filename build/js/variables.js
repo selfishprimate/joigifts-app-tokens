@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 25 Aug 2023 19:49:55 GMT
+ * Generated on Thu, 31 Aug 2023 09:52:32 GMT
  */
 
 export const SemanticOpacity100 = 0.16;
@@ -705,6 +705,7 @@ export const SemanticColorIconDanger = "#dc2626";
 export const SemanticColorIconOndanger = "#ffffff";
 export const SemanticColorIconNeutral = "#212529";
 export const SemanticColorIconOnneutral = "#ffffff";
+export const SemanticColorStatusesDefault = "#F4D4D9";
 export const SemanticColorVariousMimiPink = "#F4D4D9";
 export const SemanticColorVariousBlack = "#000000";
 export const SemanticColorVariousWhite = "#ffffff";
