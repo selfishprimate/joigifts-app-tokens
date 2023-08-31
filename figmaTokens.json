@@ -3327,7 +3327,27 @@
         },
         "statuses": {
           "default": {
-            "value": "#F4D4D9",
+            "value": "{semantic.color.text.default}",
+            "type": "color"
+          },
+          "readyToDispatch": {
+            "value": "{semantic.color.attention.emphasis}",
+            "type": "color"
+          },
+          "processing": {
+            "value": "{semantic.color.warning.emphasis}",
+            "type": "color"
+          },
+          "outForDelivery": {
+            "value": "{semantic.color.success.default}",
+            "type": "color"
+          },
+          "delivered": {
+            "value": "{semantic.color.success.default}",
+            "type": "color"
+          },
+          "refunded": {
+            "value": "{semantic.color.danger.emphasis}",
             "type": "color"
           }
         },
