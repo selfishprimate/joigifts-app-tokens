@@ -2005,6 +2005,72 @@
               "type": "typography"
             }
           },
+          "monospace": {
+            "default": {
+              "normal": {
+                "value": {
+                  "fontFamily": "{semantic.fontFamily.en.mono}",
+                  "fontWeight": "{global.fontWeight.normal}",
+                  "lineHeight": "roundTo({global.fontSize.majorSecond.default} * {global.lineHeight.ratio.medium})",
+                  "fontSize": "{global.fontSize.majorSecond.default}",
+                  "textDecoration": ""
+                },
+                "type": "typography"
+              },
+              "medium": {
+                "value": {
+                  "fontFamily": "{semantic.fontFamily.en.mono}",
+                  "fontWeight": "{global.fontWeight.medium}",
+                  "lineHeight": "roundTo({global.fontSize.majorSecond.default} * {global.lineHeight.ratio.medium})",
+                  "fontSize": "{global.fontSize.majorSecond.default}",
+                  "textDecoration": ""
+                },
+                "type": "typography"
+              },
+              "bold": {
+                "value": {
+                  "fontFamily": "{semantic.fontFamily.en.mono}",
+                  "fontWeight": "{global.fontWeight.bold}",
+                  "lineHeight": "roundTo({global.fontSize.majorSecond.default} * {global.lineHeight.ratio.medium})",
+                  "fontSize": "{global.fontSize.majorSecond.default}",
+                  "textDecoration": ""
+                },
+                "type": "typography"
+              }
+            },
+            "small": {
+              "normal": {
+                "value": {
+                  "fontFamily": "{semantic.fontFamily.en.mono}",
+                  "fontWeight": "{global.fontWeight.normal}",
+                  "lineHeight": "roundTo({global.fontSize.majorSecond.small} * {global.lineHeight.ratio.medium})",
+                  "fontSize": "{global.fontSize.majorSecond.small}",
+                  "textDecoration": ""
+                },
+                "type": "typography"
+              },
+              "medium": {
+                "value": {
+                  "fontFamily": "{semantic.fontFamily.en.mono}",
+                  "fontWeight": "{global.fontWeight.medium}",
+                  "lineHeight": "roundTo({global.fontSize.majorSecond.small} * {global.lineHeight.ratio.medium})",
+                  "fontSize": "{global.fontSize.majorSecond.small}",
+                  "textDecoration": ""
+                },
+                "type": "typography"
+              },
+              "bold": {
+                "value": {
+                  "fontFamily": "{semantic.fontFamily.en.mono}",
+                  "fontWeight": "{global.fontWeight.bold}",
+                  "lineHeight": "roundTo({global.fontSize.majorSecond.small} * {global.lineHeight.ratio.medium})",
+                  "fontSize": "{global.fontSize.majorSecond.small}",
+                  "textDecoration": ""
+                },
+                "type": "typography"
+              }
+            }
+          },
           "default": {
             "value": {
               "fontFamily": "{semantic.fontFamily.en.primary}",
@@ -2592,6 +2658,72 @@
                 "fontSize": "{global.fontSize.majorSecond.xsmall}"
               },
               "type": "typography"
+            }
+          },
+          "monospace": {
+            "default": {
+              "normal": {
+                "value": {
+                  "fontFamily": "{semantic.fontFamily.ar.mono}",
+                  "fontWeight": "{global.fontWeight.normal}",
+                  "lineHeight": "roundTo({global.fontSize.majorSecond.default} * {global.lineHeight.ratio.medium})",
+                  "fontSize": "{global.fontSize.majorSecond.default}",
+                  "textDecoration": ""
+                },
+                "type": "typography"
+              },
+              "medium": {
+                "value": {
+                  "fontFamily": "{semantic.fontFamily.ar.mono}",
+                  "fontWeight": "{global.fontWeight.medium}",
+                  "lineHeight": "roundTo({global.fontSize.majorSecond.default} * {global.lineHeight.ratio.medium})",
+                  "fontSize": "{global.fontSize.majorSecond.default}",
+                  "textDecoration": ""
+                },
+                "type": "typography"
+              },
+              "bold": {
+                "value": {
+                  "fontFamily": "{semantic.fontFamily.ar.mono}",
+                  "fontWeight": "{global.fontWeight.bold}",
+                  "lineHeight": "roundTo({global.fontSize.majorSecond.default} * {global.lineHeight.ratio.medium})",
+                  "fontSize": "{global.fontSize.majorSecond.default}",
+                  "textDecoration": ""
+                },
+                "type": "typography"
+              }
+            },
+            "small": {
+              "normal": {
+                "value": {
+                  "fontFamily": "{semantic.fontFamily.ar.mono}",
+                  "fontWeight": "{global.fontWeight.normal}",
+                  "lineHeight": "roundTo({global.fontSize.majorSecond.small} * {global.lineHeight.ratio.medium})",
+                  "fontSize": "{global.fontSize.majorSecond.small}",
+                  "textDecoration": ""
+                },
+                "type": "typography"
+              },
+              "medium": {
+                "value": {
+                  "fontFamily": "{semantic.fontFamily.ar.mono}",
+                  "fontWeight": "{global.fontWeight.medium}",
+                  "lineHeight": "roundTo({global.fontSize.majorSecond.small} * {global.lineHeight.ratio.medium})",
+                  "fontSize": "{global.fontSize.majorSecond.small}",
+                  "textDecoration": ""
+                },
+                "type": "typography"
+              },
+              "bold": {
+                "value": {
+                  "fontFamily": "{semantic.fontFamily.ar.mono}",
+                  "fontWeight": "{global.fontWeight.bold}",
+                  "lineHeight": "roundTo({global.fontSize.majorSecond.small} * {global.lineHeight.ratio.medium})",
+                  "fontSize": "{global.fontSize.majorSecond.small}",
+                  "textDecoration": ""
+                },
+                "type": "typography"
+              }
             }
           },
           "default": {
