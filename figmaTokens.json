@@ -3663,6 +3663,14 @@
           "rose": {
             "value": "{global.color.rose.500}",
             "type": "color"
+          },
+          "careembackground": {
+            "value": "#001942",
+            "type": "color"
+          },
+          "careemforeground": {
+            "value": "#00E784",
+            "type": "color"
           }
         },
         "gradients": {
