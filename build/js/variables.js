@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 25 Oct 2023 10:52:50 GMT
+ * Generated on Fri, 05 Jan 2024 09:51:21 GMT
  */
 
 export const SemanticOpacity100 = 0.16;
@@ -847,6 +847,8 @@ export const SemanticColorVariousMimiPink = "#F4D4D9";
 export const SemanticColorVariousBlack = "#000000";
 export const SemanticColorVariousWhite = "#ffffff";
 export const SemanticColorVariousRose = "#f43f5e";
+export const SemanticColorVariousCareembackground = "#001942";
+export const SemanticColorVariousCareemforeground = "#00E784";
 export const SemanticColorGradientsLinearBlackZero = "linear-gradient(0deg, #000000bf 0, #00000080 30%, #00000040 50%, #00000000 100%)";
 export const SemanticTextCaseNone = "none";
 export const SemanticTextCaseCapitalize = "capitalize";
